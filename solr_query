@@ -1,0 +1,27 @@
+#!/usr/bin/env python
+""" Solr test. """
+
+import os
+import sys
+
+from Fe2.tools.log import Log
+from Fe2.tools import sql
+from Fe2.tools.solr import Solr
+
+from pprint import pprint
+
+log = Log(__file__.split(os.sep)[-1])
+log = log.create_logger()
+
+__usage__ = """Usage: solr_query [hostname] query"""
+
+if len(sys.argv) == 1:
+    sys.stderr.write("Error: no query.\n")
+    sys.stdout.write(__usage__+"\n")
+    sys.exit(-1)
+
+solr = Solr(log=log)     # Create solr handler
+result = solr.query(sys.argv[1])
+
+if result:
+    print result.docs[0]['label_nl'][0]

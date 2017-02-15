@@ -1,0 +1,14 @@
+INFO:isbn:Setting backend to: nocache.
+INFO:isbn:Setting backend to: nocache.
+INFO:isbn:Setting backend to: nocache.
+INFO:isbn:Setting backend to: nocache.
+DEBUG:isbn:Getting http://www.librarything.com/api/thingISBN/0517202875 (via nocache)
+DEBUG:isbn:Got http://www.librarything.com/api/thingISBN/0517202875 bytes for 172 (via nocache)
+DEBUG:isbn:Getting http://jsru.kb.nl/sru?query=0517202875&version=1.1&operation=searchRetrieve&maximumRecords=1&recordSchema=dcx&x-collection=GGC (via nocache)
+DEBUG:isbn:Got http://jsru.kb.nl/sru?query=0517202875&version=1.1&operation=searchRetrieve&maximumRecords=1&recordSchema=dcx&x-collection=GGC bytes for 747 (via nocache)
+DEBUG:isbn:Getting http://z3950.loc.gov:7090/voyager?query=0517202875&version=1.1&operation=searchRetrieve&maximumRecords=1&recordSchema=mods (via nocache)
+DEBUG:isbn:Got http://z3950.loc.gov:7090/voyager?query=0517202875&version=1.1&operation=searchRetrieve&maximumRecords=1&recordSchema=mods bytes for 2818 (via nocache)
+DEBUG:isbn:Getting http://openlibrary.org/api/books?bibkeys=ISBN:0517202875&callback=mycallback&jscmd=data (via nocache)
+DEBUG:isbn:Getting http://news.library.ryerson.ca/api/isbnsearch.php?isbn=0517202875 (via nocache)
+DEBUG:isbn:Got http://news.library.ryerson.ca/api/isbnsearch.php?isbn=0517202875 bytes for 782 (via nocache)
+DEBUG:isbn:Getting http://books.google.com/books/feeds/volumes?q=0517202875 (via nocache)

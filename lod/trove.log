@@ -1,0 +1,2 @@
+INFO:trove:Setting backend to: nocache.
+DEBUG:trove:Getting http://www.nla.gov.au/apps/srw/opensearch/peopleaustralia?q=amsterdam (via nocache)

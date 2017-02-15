@@ -1,0 +1,63 @@
+National Libraray of the Netherlands, MetaData via SRU/SRW
+
+Information on the API:
+    - http://www.kb.nl/banners-apis-en-meer/dataservices-apis
+    - http://www.kb.nl/sites/default/files/docs/snelstart-anp_en.pdf
+
+==
+Is main library site is up:
+
+>>> import requests
+>>> req = requests.get('http://www.kb.nl')
+>>> req.status_code
+200
+
+==
+
+==
+Is SRU API is up:
+
+>>> sru_baseurl = "http://jsru.kb.nl/sru?query=%(query)s&version=1.1&operation=searchRetrieve&maximumRecords=1&recordSchema=%(recordschema)s&x-collection=GGC"
+>>> query = "Scheveningen"
+>>> req = requests.get(sru_baseurl % {"query" : query, "recordschema" : "dc"})
+>>> req.status_code
+200
+
+==
+
+==
+Is SRU API output as expected:
+
+>>> req.text.startswith('<?xml version="1.0" encoding="UTF-8"?><srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/" xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html"><srw:version>1.1</srw:version><srw:totalMilliSeconds>')
+True
+
+==
+
+==
+Is SRU API output for specific record as expected, and can the response be transformed into an lxml object:
+'''Ipython cut&paste.
+
+from lxml import etree
+import requests
+
+sru_baseurl = "http://jsru.kb.nl/sru?query=%(query)s&version=1.1&operation=searchRetrieve&maximumRecords=1&recordSchema=%(recordschema)s&x-collection=GGC"
+query = "ISBN=9046703436"
+req = requests.get(sru_baseurl % {"query" : query, "recordschema" : "dcx"}) 
+xml_raw = bytes(bytearray(req.text, encoding='utf-8'))
+xml_data = etree.fromstring(xml_raw)
+[child for child in xml_data.getchildren() if child.tag.endswith('numberOfRecords')][0].text
+
+
+'''
+
+>>> from lxml import etree
+>>> query = "ISBN=9046703436"
+>>> req = requests.get(sru_baseurl % {"query" : query, "recordschema" : "dcx"})
+>>> xml_raw = bytes(bytearray(req.text, encoding='utf-8'))
+>>> xml_data = etree.fromstring(xml_raw)
+>>> [child for child in xml_data.getchildren() if child.tag.endswith('numberOfRecords')][0].text
+'1'
+>>> [i.text for i in [child for child in xml_data.iter() if child.tag.lower().endswith('identifier') and child.attrib.values()[0].lower().endswith('isbn')]][0]
+'9046703436'
+
+==

@@ -1,0 +1,22 @@
+booksearch - Search for book metadata
+
+BookSearch is a collection of protocols, formats and endpoints
+for book metadata search via libraries, research institutes and
+commercial available endpoints, implemented in Python.
+
+BookSearch is able to search your local national library, if they
+expose an endpoint, many of them do, without the need for keys,
+and they provide rich info. The aim of this project is to provide
+easy access to different sources of metadata, in a parallel fashion.
+
+There are a couple of standards required to search the metadata 
+providers, some well known, others more obscure. To get a sense of
+the search protocols, see search protocol overview. Metadata in the
+library world can take on many forms, for an overview of the
+implemented metadata formats see metadata formats overview.
+
+Booksearch launches queries to it's endpoints in parallel mode,
+results are collected as they come in, user is free to design
+result merge strategies.
+
+For licence information see LICENCE.txt included in this package.
