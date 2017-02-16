@@ -1,0 +1,61 @@
+import web, urllib,os
+import hashlib,time
+
+from europeana.api import API
+
+urls = ("/(.*)", "query", "/" ,'root')
+app = web.application(urls, globals())
+
+
+class root:
+    def GET(self):
+        return 'ok'
+
+class query:
+    def GET(self,name):
+        i = web.input(name=None)
+        if i["name"]:
+            return i["name"]
+        if name:
+            start = time.time()
+            a=API()
+            if not name.find('startPage') > -1:
+                a.query("title:"+name+"%20AND%20format:*image*")
+            else:
+                a.query(name)
+            res="<html><head><style>h1 { display: inline; } </style></head><body>results for : <h1>"+name+"</h1> (found : "+str(a.numfound)+") <br/>"
+            for item in a.records:
+                if "data" in item.keys():
+                    res+="<div style='height: 200px;overflow-y: scroll'>"
+                    res+="<h3>"+item["title"]+"</h3>"
+                    res+="<img src='"+item["data"]["object"]+"' width=200 style='float:left;'>\n"
+                    res+="<table>"
+                    for i in item["data"].keys():
+                        if not (i == "place_term" or i == "description" or i == "object"):
+                            if item["data"][i].find('http://') > -1:
+                                res+="<tr><td>"+i+"</td><td><a href='"+item["data"][i]+"'>"+item["data"][i]+"</a></td></tr>\n"
+                            else:
+                                res+="<tr><td>"+i+"</td><td>"+item["data"][i]+"</td></tr>\n"
+                        elif i == "place_term":
+                            res+="<iframe style='float:right; display:none;' width=800 height=400 src='"+item["data"][i]+"'>noi</iframe>\n"
+                        elif i == "description":
+                            res+="<tr><td>"+i+"</td><td>"
+                            res+=item["data"][i]
+                            res+="</tr>"
+
+                    res+="</table>"
+                    res+="</div><br style='clear:both;'/>"
+            end = time.time()
+            elapsed= end - start
+            res+="Only took : "+str(elapsed) + "seconds...<br/>"
+            if not name.find('startPage')>-1:
+                res+="<a href='/"+name+"&startPage="+str(1)+"'>next page</a>"
+            else:
+                count=name[name.find('startPage')+1]
+                name=name.replace(count, str(int(count)+1))
+                res+="<a href='/"+name+"'>next page</a>"
+            return(res)
+        return 'Hello, world!'
+
+if __name__ == "__main__":
+    app.run()

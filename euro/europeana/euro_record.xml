@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<srw:searchRetrieveResponse xmlns:srw="http://www.loc.gov/zing/srw/"
+                            xmlns:diag="http://www.loc.gov/zing/srw/diagnostic/"
+                            xmlns:xcql="http://www.loc.gov/zing/cql/xcql/"
+                            xmlns:mods="http://www.loc.gov/mods/v3"
+                            xmlns:europeana="http://www.europeana.eu"
+                            xmlns:enrichment="http://www.europeana.eu/schemas/ese/enrichment/"
+                            xmlns:dcterms="http://purl.org/dc/terms/"
+                            xmlns:dc="http://purl.org/dc/elements/1.1/"
+                            xmlns:dcx="http://purl.org/dc/elements/1.1/"
+                            xmlns:tel="http://krait.kb.nl/coop/tel/handbook/telterms.html"
+                            xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+    <srw:version>1.1</srw:version>
+    <srw:records>
+        <srw:record>
+            <srw:recordSchema>info:srw/schema/1/dc-v1.1</srw:recordSchema>
+            <srw:recordPacking>xml</srw:recordPacking>
+            <srw:recordData>
+                <dc:dc>
+                
+                		<europeana:uri>http://www.europeana.eu/resolve/record/09302/A93000D7A6B7D75713E8DAEE33D7AACF113D741E</europeana:uri>
+                		<europeana:country>Germany</europeana:country>
+                		<europeana:provider>Judaica Europeana</europeana:provider>
+                		<europeana:collectionName>09302_Ag_EU_Judaica_fra1</europeana:collectionName>
+                		<europeana:hasObject>false</europeana:hasObject>
+                		<europeana:isShownAt>http://nbn-resolving.de/urn:nbn:de:hebis:30:1-116180</europeana:isShownAt>
+                		<europeana:object>http://www.judaica-frankfurt.de/download/webcache/1000/1083981</europeana:object>
+                		<europeana:language>mul</europeana:language>
+                		<europeana:type>TEXT</europeana:type>
+                		<europeana:rights>http://creativecommons.org/publicdomain/mark/1.0/</europeana:rights>
+                		<europeana:dataProvider>Universitätsbibliothek JCS Frankfurt am Main</europeana:dataProvider>
+                		<dcterms:spatial>Fürth</dcterms:spatial>
+                		<dc:creator>Einstein, L.</dc:creator>
+                		<dc:description>Fürth : Gusdorfer; [Electronic ed.] Frankfurt am Main : Univ.-Bibliothek, 2010.</dc:description>
+                		<dc:identifier>urn:nbn:de:hebis:30:1-116180</dc:identifier>
+                		<dc:language>de</dc:language>
+                		<dc:language>he</dc:language>
+                		<dc:publisher>Gusdorfer</dc:publisher>
+                		<dc:subject>Grammatik</dc:subject>
+                		<dc:subject>Hebräisch</dc:subject>
+                		<dc:title>Elementarbuch der Hebräischen Sprache oder practische Anleitung, das Hebräische (nach Ahn's bekannter Lehrmethode) in kurzer Zeit lesen, schreiben und übersetzen zu lernen : für Jeden, der ohne Beihilfe eines Lehrers in den Geist der Hebräischen Sprache eindringen und zur Kenntniß der heiligen Schriften im Urtexte gelangen will, und mit besonderer Rücksicht für israelitische Volksschulen bearbeitet / von L. Einstein</dc:title>
+                		<dc:type>text</dc:type>
+                		<europeana:completeness>10</europeana:completeness>
+				    
+                </dc:dc>
+            </srw:recordData>
+        </srw:record>
+    </srw:records>
+    <srw:echoedSearchRetrieveRequest>
+        <srw:version>1.1</srw:version>
+        <srw:query></srw:query>
+        <srw:recordPacking>xml</srw:recordPacking>
+    </srw:echoedSearchRetrieveRequest>
+</srw:searchRetrieveResponse>
+

@@ -1,0 +1,72 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html lang="en-US" xml:lang="en-US" xmlns="http://www.w3.org/1999/xhtml">
+
+<head>
+
+<title>HTML</title>
+
+<link rel="shortcut icon" href="/favicon.ico" type="image/x-icon" />
+<meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1" />
+
+<meta name="Keywords" content="" />
+<meta name="Description" content="" />
+
+<meta http-equiv="pragma" content="no-cache" />
+<meta http-equiv="cache-control" content="no-cache" />
+<meta http-equiv="expires" content="-1" />
+
+<link rel="stylesheet" type="text/css" href="main.css" />
+<script type="text/javascript" src="http://js.dev.fe2.nl/jquery/jquery.js"></script>
+<script type="text/javascript" src="http://js.dev.fe2.nl/jquery.cookie.js"></script>
+<script type="text/javascript" src="http://js.dev.fe2.nl/jquery.md5.js"></script>
+
+<script type="text/javascript">
+<!--
+
+-->
+
+
+var ok = false;
+
+function load_page() {
+    name=$.cookie("i");
+    $('#content').load("/appels/?q="+name);
+}
+
+if ($.cookie("fe2")) {
+    var i = $.cookie("i");
+    $.get("?w="+i, function(data){
+    if ($.md5(data) == $.cookie("fe2")) {
+            load_page();
+        } 
+    });
+} else {
+    var randomNum = Math.ceil(Math.random()*463993);
+    $.get("?q="+randomNum, function(data){
+    $.cookie("fe2", data, { path: '/' });
+    $.cookie("i", randomNum, { path: '/' });
+    });
+
+    $.get("?w="+randomNum, function(data){
+        if ($.md5(data) == $.cookie("fe2")) {
+            load_page();
+        } 
+    });
+}
+
+</script>
+
+
+
+</head>
+<body>
+
+<div id="content">
+
+</div>
+
+
+</body>
+
+</html>
+

@@ -1,0 +1,1901 @@
+<?xml version="1.0" encoding="utf-8"?>
+<JamendoData epoch="1302912057" documentation="http://developer.jamendo.com/en/wiki/DatabaseDumps" type="artistalbumtrack">
+  <Artists>
+    <artist>
+      <id>5988</id>
+      <name>Jim N'Goonh</name>
+      <url>http://www.jamendo.com/artist/jim.n.goonh</url>
+      <image>http://imgjam.com/artists/j/jim.n.goonh.jpg</image>
+      <mbgid/>
+      <location>
+        <country>BEL</country>
+        <state>WHT</state>
+        <city>Charleroi</city>
+        <latitude>50.4115</latitude>
+        <longitude>4.44424</longitude>
+      </location>
+      <Albums>
+        <album>
+          <id>31075</id>
+          <name>Easy Belgian Listen</name>
+          <url>http://www.jamendo.com/album/31075</url>
+          <releasedate>2008-09-11T14:15:50+01:00</releasedate>
+          <filename>Jim N'Goonh - Easy Belgian Listen</filename>
+          <id3genre>52</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>209829</id>
+              <name>The latch</name>
+              <duration>464.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Jim N'Goonh - The latch</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>209849</id>
+              <name>Alone dedicated to dart</name>
+              <duration>382.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Jim N'Goonh - Alone dedicated to dart</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>209796</id>
+              <name>Burned-ambient</name>
+              <duration>295.0</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Jim N'Goonh - Burned-ambient</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>209780</id>
+              <name>Prisoner of time</name>
+              <duration>236.0</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Jim N'Goonh - Prisoner of time</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>209868</id>
+              <name>Time new edit</name>
+              <duration>224.0</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Jim N'Goonh - Time new edit</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>209874</id>
+              <name>Boost ME again</name>
+              <duration>183.0</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Jim N'Goonh - Boost ME again</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>209898</id>
+              <name>Killskin</name>
+              <duration>341.0</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Jim N'Goonh - Killskin</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>210069</id>
+              <name>Cities les sans papiers</name>
+              <duration>262.0</duration>
+              <numalbum>8</numalbum>
+              <filename>08 - Jim N'Goonh - Cities les sans papiers</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>210092</id>
+              <name>The fort</name>
+              <duration>175.0</duration>
+              <numalbum>9</numalbum>
+              <filename>09 - Jim N'Goonh - The fort</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>210095</id>
+              <name>Again reverse song</name>
+              <duration>254.0</duration>
+              <numalbum>10</numalbum>
+              <filename>10 - Jim N'Goonh - Again reverse song</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>210136</id>
+              <name>Gameover</name>
+              <duration>237.0</duration>
+              <numalbum>11</numalbum>
+              <filename>11 - Jim N'Goonh - Gameover</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>210155</id>
+              <name>Remix again         </name>
+              <duration>167.0</duration>
+              <numalbum>12</numalbum>
+              <filename>12 - Jim N'Goonh - Remix again</filename>
+              <mbgid/>
+              <id3genre>0</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>24088</id>
+          <name>--- Paris incident ---</name>
+          <url>http://www.jamendo.com/album/24088</url>
+          <releasedate>2008-04-30T15:19:35+01:00</releasedate>
+          <filename>Jim N'Goonh - --- Paris incident</filename>
+          <id3genre>52</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>163990</id>
+              <name>WALK in LINE</name>
+              <duration>121.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Jim N'Goonh - WALK in LINE</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>163991</id>
+              <name>center of my life</name>
+              <duration>97.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Jim N'Goonh - center of my life</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>163992</id>
+              <name>center of my life MIXED</name>
+              <duration>190.0</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Jim N'Goonh - center of my life MIXED</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164029</id>
+              <name>Vocoderman</name>
+              <duration>274.0</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Jim N'Goonh - Vocoderman</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164307</id>
+              <name>NOT my PICTURE</name>
+              <duration>187.0</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Jim N'Goonh - NOT my PICTURE</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164308</id>
+              <name>Red Oktober</name>
+              <duration>178.0</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Jim N'Goonh - Red Oktober</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164309</id>
+              <name>To be free voiced</name>
+              <duration>182.0</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Jim N'Goonh - To be free voiced</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164310</id>
+              <name>Vocoder muzzz</name>
+              <duration>222.0</duration>
+              <numalbum>8</numalbum>
+              <filename>08 - Jim N'Goonh - Vocoder muzzz</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164311</id>
+              <name>cHinese Pr</name>
+              <duration>179.0</duration>
+              <numalbum>9</numalbum>
+              <filename>09 - Jim N'Goonh - cHinese Pr</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164312</id>
+              <name>free mix FREE</name>
+              <duration>345.0</duration>
+              <numalbum>10</numalbum>
+              <filename>10 - Jim N'Goonh - free mix FREE</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164388</id>
+              <name>Time alien song</name>
+              <duration>178.0</duration>
+              <numalbum>11</numalbum>
+              <filename>11 - Jim N'Goonh - Time alien song</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164396</id>
+              <name>Center of my life rage edit</name>
+              <duration>236.0</duration>
+              <numalbum>12</numalbum>
+              <filename>12 - Jim N'Goonh - Center of my life rage edit</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164441</id>
+              <name>Dart Trip MIXEDUP</name>
+              <duration>226.0</duration>
+              <numalbum>13</numalbum>
+              <filename>13 - Jim N'Goonh - Dart Trip MIXEDUP</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164442</id>
+              <name>Dart crunch TRIP</name>
+              <duration>216.0</duration>
+              <numalbum>14</numalbum>
+              <filename>14 - Jim N'Goonh - Dart crunch TRIP</filename>
+              <mbgid/>
+              <id3genre>52</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>164443</id>
+              <name>T B E FREE  MIXid</name>
+              <duration>299.0</duration>
+              <numalbum>15</numalbum>
+              <filename>15 - Jim N'Goonh - T B E FREE MIXid</filename>
+              <mbgid/>
+              <id3genre>55</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>5222</id>
+          <name>Diver City</name>
+          <url>http://www.jamendo.com/album/5222</url>
+          <releasedate>2007-04-24T16:50:47+01:00</releasedate>
+          <filename>Jim N'Goonh - Diver City</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>43267</id>
+              <name>Hard days trip</name>
+              <duration>130</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Jim N'Goonh - Hard days trip</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43268</id>
+              <name>My dévotion 4 U</name>
+              <duration>242</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Jim N'Goonh - My devotion 4 U</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43269</id>
+              <name>Zen thema Remixed</name>
+              <duration>311</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Jim N'Goonh - Zen thema Remixed</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43270</id>
+              <name>Rapcityground</name>
+              <duration>177</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Jim N'Goonh - Rapcityground</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43271</id>
+              <name>Mimoland (dedicate to MIMOCO)</name>
+              <duration>184</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Jim N'Goonh - Mimoland (dedicate to MIMOCO)</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43272</id>
+              <name>D-A-F  r-MIX reagan theme</name>
+              <duration>288</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Jim N'Goonh - D-A-F r-MIX reagan theme</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43273</id>
+              <name>Tel Hyphen Me</name>
+              <duration>212</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Jim N'Goonh - Tel Hyphen Me</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43274</id>
+              <name>Kneave US</name>
+              <duration>84</duration>
+              <numalbum>8</numalbum>
+              <filename>08 - Jim N'Goonh - Kneave US</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43275</id>
+              <name>Crazy Jack</name>
+              <duration>234</duration>
+              <numalbum>9</numalbum>
+              <filename>09 - Jim N'Goonh - Crazy Jack</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43276</id>
+              <name>Kyokushin kai Thema</name>
+              <duration>144</duration>
+              <numalbum>10</numalbum>
+              <filename>10 - Jim N'Goonh - Kyokushin kai Thema</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43277</id>
+              <name>Load 1990</name>
+              <duration>195</duration>
+              <numalbum>11</numalbum>
+              <filename>11 - Jim N'Goonh - Load 1990</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43278</id>
+              <name>Miami trip</name>
+              <duration>238</duration>
+              <numalbum>12</numalbum>
+              <filename>12 - Jim N'Goonh - Miami trip</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43279</id>
+              <name>Speed up NO DISCO but....</name>
+              <duration>137</duration>
+              <numalbum>13</numalbum>
+              <filename>13 - Jim N'Goonh - Speed up NO DISCO but</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43280</id>
+              <name>Understand</name>
+              <duration>196</duration>
+              <numalbum>14</numalbum>
+              <filename>14 - Jim N'Goonh - Understand</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43281</id>
+              <name>Stay house sing by Alans</name>
+              <duration>176</duration>
+              <numalbum>15</numalbum>
+              <filename>15 - Jim N'Goonh - Stay house sing by Alans</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>43282</id>
+              <name>Zen thema Rock version init</name>
+              <duration>224</duration>
+              <numalbum>16</numalbum>
+              <filename>16 - Jim N'Goonh - Zen thema Rock version init</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>85473</id>
+          <name>Ultra Ambient</name>
+          <url>http://www.jamendo.com/album/85473</url>
+          <releasedate>2011-02-17T19:57:03+01:00</releasedate>
+          <filename>Jim N'Goonh - Ultra Ambient</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license_artwork>
+          <Tracks>
+            <track>
+              <id>730858</id>
+              <name>Ineraction</name>
+              <duration>249.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Jim N'Goonh - Ineraction</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730861</id>
+              <name>BIOcomplex</name>
+              <duration>216.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Jim N'Goonh - BIOcomplex</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730857</id>
+              <name>Industry</name>
+              <duration>237.0</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Jim N'Goonh - Industry</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730860</id>
+              <name>The Core</name>
+              <duration>252.0</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Jim N'Goonh - The Core</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730863</id>
+              <name>Street on fire</name>
+              <duration>259.0</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Jim N'Goonh - Street on fire</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730867</id>
+              <name>Simpliest</name>
+              <duration>248.0</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Jim N'Goonh - Simpliest</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730862</id>
+              <name>Heaven</name>
+              <duration>261.0</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Jim N'Goonh - Heaven</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730864</id>
+              <name>Love &amp; Work</name>
+              <duration>162.0</duration>
+              <numalbum>8</numalbum>
+              <filename>08 - Jim N'Goonh - Love Work</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730865</id>
+              <name>Hold the night</name>
+              <duration>391.0</duration>
+              <numalbum>9</numalbum>
+              <filename>09 - Jim N'Goonh - Hold the night</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730859</id>
+              <name>Kriken</name>
+              <duration>142.0</duration>
+              <numalbum>10</numalbum>
+              <filename>10 - Jim N'Goonh - Kriken</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730866</id>
+              <name>Kooll</name>
+              <duration>140.0</duration>
+              <numalbum>11</numalbum>
+              <filename>11 - Jim N'Goonh - Kooll</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-sa/2.0/be/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>85400</id>
+          <name>Wallon Buiten </name>
+          <url>http://www.jamendo.com/album/85400</url>
+          <releasedate>2011-02-17T18:54:37+01:00</releasedate>
+          <filename>Jim N'Goonh - Wallon Buiten</filename>
+          <id3genre>52</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-sa/2.0/be/</license_artwork>
+          <Tracks>
+            <track>
+              <id>730672</id>
+              <name>wallonbuitenok</name>
+              <duration>261.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Jim N'Goonh - wallonbuitenok</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730668</id>
+              <name>ultrapiano</name>
+              <duration>214.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Jim N'Goonh - ultrapiano</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730667</id>
+              <name>ridehorseok</name>
+              <duration>240.0</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Jim N'Goonh - ridehorseok</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730669</id>
+              <name>einsten5ok</name>
+              <duration>177.0</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Jim N'Goonh - einsten5ok</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730670</id>
+              <name>inthecityok</name>
+              <duration>156.0</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Jim N'Goonh - inthecityok</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730673</id>
+              <name>iensvei10ok</name>
+              <duration>281.0</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Jim N'Goonh - iensvei10ok</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+            <track>
+              <id>730671</id>
+              <name>rythmyside9</name>
+              <duration>213.0</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Jim N'Goonh - rythmyside9</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-sa/2.0/be/</license>
+            </track>
+          </Tracks>
+        </album>
+      </Albums>
+    </artist>
+    <artist>
+      <id>5989</id>
+      <name>Traummaschine</name>
+      <url>http://www.jamendo.com/artist/traummaschine</url>
+      <image>http://imgjam.com/artists/t/traummaschine.jpg</image>
+      <mbgid/>
+      <location>
+        <country>ESP</country>
+        <state>VC</state>
+        <city>Aljorf</city>
+        <latitude>None</latitude>
+        <longitude>None</longitude>
+      </location>
+      <Albums>
+        <album>
+          <id>5356</id>
+          <name>2</name>
+          <url>http://www.jamendo.com/album/5356</url>
+          <releasedate>2007-05-03T16:33:36+01:00</releasedate>
+          <filename>Traummaschine - 2</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-nd/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>44628</id>
+              <name>La Monte Dans Le Ciel Avec Des Diamants</name>
+              <duration>578</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Traummaschine - La Monte Dans Le Ciel Avec Des Diamants</filename>
+              <Tags>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.123</weight>
+                </tag>
+                <tag>
+                  <idstr>avantgarde</idstr>
+                  <weight>0.036</weight>
+                </tag>
+                <tag>
+                  <idstr>noise</idstr>
+                  <weight>0.033</weight>
+                </tag>
+                <tag>
+                  <idstr>progressiverock</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.021</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/3.0/</license>
+            </track>
+            <track>
+              <id>44629</id>
+              <name>Iluminations</name>
+              <duration>482</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Traummaschine - Iluminations</filename>
+              <Tags>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.123</weight>
+                </tag>
+                <tag>
+                  <idstr>avantgarde</idstr>
+                  <weight>0.036</weight>
+                </tag>
+                <tag>
+                  <idstr>noise</idstr>
+                  <weight>0.033</weight>
+                </tag>
+                <tag>
+                  <idstr>progressiverock</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.021</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/3.0/</license>
+            </track>
+            <track>
+              <id>44630</id>
+              <name>La Maison Dieu</name>
+              <duration>156</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Traummaschine - La Maison Dieu</filename>
+              <Tags>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.123</weight>
+                </tag>
+                <tag>
+                  <idstr>avantgarde</idstr>
+                  <weight>0.036</weight>
+                </tag>
+                <tag>
+                  <idstr>noise</idstr>
+                  <weight>0.033</weight>
+                </tag>
+                <tag>
+                  <idstr>progressiverock</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.021</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/3.0/</license>
+            </track>
+            <track>
+              <id>44631</id>
+              <name>L'Etoile Noire</name>
+              <duration>382</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Traummaschine - L'Etoile Noire</filename>
+              <Tags>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.123</weight>
+                </tag>
+                <tag>
+                  <idstr>avantgarde</idstr>
+                  <weight>0.036</weight>
+                </tag>
+                <tag>
+                  <idstr>noise</idstr>
+                  <weight>0.033</weight>
+                </tag>
+                <tag>
+                  <idstr>progressiverock</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.021</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/3.0/</license>
+            </track>
+            <track>
+              <id>44632</id>
+              <name>Vide Parfait</name>
+              <duration>590</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Traummaschine - Vide Parfait</filename>
+              <Tags>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.123</weight>
+                </tag>
+                <tag>
+                  <idstr>avantgarde</idstr>
+                  <weight>0.036</weight>
+                </tag>
+                <tag>
+                  <idstr>noise</idstr>
+                  <weight>0.033</weight>
+                </tag>
+                <tag>
+                  <idstr>progressiverock</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.021</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/3.0/</license>
+            </track>
+            <track>
+              <id>44633</id>
+              <name>Il Y A Un Instant Le Portait Un Chien Dans La Bouche</name>
+              <duration>904</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Traummaschine - Il Y A Un Instant Le Portait Un Chien Dans La Bouche</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>31553</id>
+          <name>Anomalia</name>
+          <url>http://www.jamendo.com/album/31553</url>
+          <releasedate>2008-09-23T14:01:43+01:00</releasedate>
+          <filename>Traummaschine - Anomalia</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>214234</id>
+              <name>Flames Solars</name>
+              <duration>1298.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Traummaschine - Flames Solars</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+            <track>
+              <id>214235</id>
+              <name>Caligine</name>
+              <duration>196.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Traummaschine - Caligine</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+            <track>
+              <id>214236</id>
+              <name>La Fira</name>
+              <duration>510.0</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Traummaschine - La Fira</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+            <track>
+              <id>214237</id>
+              <name>Kilowat-Heure</name>
+              <duration>266.0</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Traummaschine - Kilowat-Heure</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+            <track>
+              <id>214238</id>
+              <name>(El fare) Una Corona de Coscoll</name>
+              <duration>1320.0</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Traummaschine - (El fare) Una Corona de Coscoll</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+            <track>
+              <id>214233</id>
+              <name>Maroma</name>
+              <duration>288.0</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Traummaschine - Maroma</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>17317</id>
+          <name>(2007) Free Music for Free People Vol. I</name>
+          <url>http://www.jamendo.com/album/17317</url>
+          <releasedate>2008-01-11T15:14:50+01:00</releasedate>
+          <filename>Traummaschine - 2007 Free Music for Free People Vol. I</filename>
+          <id3genre>8</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>123689</id>
+              <name>02 - JB directly to my Brain</name>
+              <duration>365</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Traummaschine - 02 - JB directly to my Brain</filename>
+              <mbgid/>
+              <id3genre>8</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>123916</id>
+              <name>01 - Musica para su deleite</name>
+              <duration>375</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Traummaschine - 01 - Musica para su deleite</filename>
+              <mbgid/>
+              <id3genre>8</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>123690</id>
+              <name>03 - DB</name>
+              <duration>380</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Traummaschine - 03 - DB</filename>
+              <mbgid/>
+              <id3genre>8</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>123616</id>
+              <name>04 - In 1'25'' your CD player will be destroyed</name>
+              <duration>85</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Traummaschine - 04 - In 1'25'' your CD player will be destroyed</filename>
+              <mbgid/>
+              <id3genre>8</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>5230</id>
+          <name>EINS, ZWEI, DREI, VIER</name>
+          <url>http://www.jamendo.com/album/5230</url>
+          <releasedate>2007-04-25T18:13:49+01:00</releasedate>
+          <filename>Traummaschine - EINS, ZWEI, DREI, VIER</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nd/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>43369</id>
+              <name>Buddah Y El Dragon</name>
+              <duration>110</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Traummaschine - Buddah Y El Dragon</filename>
+              <Tags>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>electronic</idstr>
+                  <weight>0.144</weight>
+                </tag>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.132</weight>
+                </tag>
+                <tag>
+                  <idstr>psytrance</idstr>
+                  <weight>0.06</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelicrock</idstr>
+                  <weight>0.06</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nd/3.0/</license>
+            </track>
+            <track>
+              <id>43370</id>
+              <name>Manantial</name>
+              <duration>798</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Traummaschine - Manantial</filename>
+              <Tags>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>electronic</idstr>
+                  <weight>0.144</weight>
+                </tag>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.132</weight>
+                </tag>
+                <tag>
+                  <idstr>psytrance</idstr>
+                  <weight>0.06</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelicrock</idstr>
+                  <weight>0.06</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nd/3.0/</license>
+            </track>
+            <track>
+              <id>43371</id>
+              <name>Rote Fabrik</name>
+              <duration>378</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Traummaschine - Rote Fabrik</filename>
+              <Tags>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>electronic</idstr>
+                  <weight>0.144</weight>
+                </tag>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.132</weight>
+                </tag>
+                <tag>
+                  <idstr>psytrance</idstr>
+                  <weight>0.06</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelicrock</idstr>
+                  <weight>0.06</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nd/3.0/</license>
+            </track>
+            <track>
+              <id>43372</id>
+              <name>Narada Meets Himachala</name>
+              <duration>609</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Traummaschine - Narada Meets Himachala</filename>
+              <Tags>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>electronic</idstr>
+                  <weight>0.144</weight>
+                </tag>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.132</weight>
+                </tag>
+                <tag>
+                  <idstr>psytrance</idstr>
+                  <weight>0.06</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelicrock</idstr>
+                  <weight>0.06</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nd/3.0/</license>
+            </track>
+            <track>
+              <id>43373</id>
+              <name>Angelica Filanda</name>
+              <duration>330</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Traummaschine - Angelica Filanda</filename>
+              <Tags>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>electronic</idstr>
+                  <weight>0.144</weight>
+                </tag>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.132</weight>
+                </tag>
+                <tag>
+                  <idstr>psytrance</idstr>
+                  <weight>0.06</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelicrock</idstr>
+                  <weight>0.06</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nd/3.0/</license>
+            </track>
+            <track>
+              <id>43374</id>
+              <name>It's A Rainy Day</name>
+              <duration>608</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Traummaschine - It's A Rainy Day</filename>
+              <Tags>
+                <tag>
+                  <idstr>psychedelic</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>electronic</idstr>
+                  <weight>0.144</weight>
+                </tag>
+                <tag>
+                  <idstr>experimental</idstr>
+                  <weight>0.132</weight>
+                </tag>
+                <tag>
+                  <idstr>psytrance</idstr>
+                  <weight>0.06</weight>
+                </tag>
+                <tag>
+                  <idstr>psychedelicrock</idstr>
+                  <weight>0.06</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nd/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>31537</id>
+          <name>Die Kosmische Sache</name>
+          <url>http://www.jamendo.com/album/31537</url>
+          <releasedate>2008-09-23T13:55:12+01:00</releasedate>
+          <filename>Traummaschine - Die Kosmische Sache</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>214047</id>
+              <name>Katalitika</name>
+              <duration>2355.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Traummaschine - Katalitika</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+            <track>
+              <id>214048</id>
+              <name>Monolito</name>
+              <duration>1850.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Traummaschine - Monolito</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+      </Albums>
+    </artist>
+    <artist>
+      <id>5987</id>
+      <name>Whise</name>
+      <url>http://www.jamendo.com/artist/whise</url>
+      <image>http://imgjam.com/artists/w/whise.jpg</image>
+      <mbgid/>
+      <location>
+        <country>RUS</country>
+        <state>MOW</state>
+        <city>Moscow</city>
+        <latitude>55.7558</latitude>
+        <longitude>37.6176</longitude>
+      </location>
+      <Albums>
+        <album>
+          <id>7069</id>
+          <name>Spiele mir</name>
+          <url>http://www.jamendo.com/album/7069</url>
+          <releasedate>2007-08-16T16:37:42+01:00</releasedate>
+          <filename>Whise - Spiele mir</filename>
+          <id3genre>33</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>78063</id>
+              <name>Your virgin madness</name>
+              <duration>251</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Whise - Your virgin madness</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.992</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>78064</id>
+              <name>Dialogue</name>
+              <duration>225</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Whise - Dialogue</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.992</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>78065</id>
+              <name>Please, do not forget...</name>
+              <duration>250</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Whise - Please, do not forget</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.992</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>78066</id>
+              <name>Ask me your answer</name>
+              <duration>199</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Whise - Ask me your answer</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.992</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>78067</id>
+              <name>Spiele mir</name>
+              <duration>208</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Whise - Spiele mir</filename>
+              <Tags>
+                <tag>
+                  <idstr>classical</idstr>
+                  <weight>1.0</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.036</weight>
+                </tag>
+                <tag>
+                  <idstr>contemporaryclassical</idstr>
+                  <weight>0.033</weight>
+                </tag>
+                <tag>
+                  <idstr>opera</idstr>
+                  <weight>0.03</weight>
+                </tag>
+                <tag>
+                  <idstr>baroque</idstr>
+                  <weight>0.027</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>32</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>78068</id>
+              <name>Happy night</name>
+              <duration>306</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Whise - Happy night</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>1.0</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>8</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>78069</id>
+              <name>Above</name>
+              <duration>189</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Whise - Above</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.8</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>8</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>20780</id>
+          <name>Depth</name>
+          <url>http://www.jamendo.com/album/20780</url>
+          <releasedate>2008-03-17T14:46:18+01:00</releasedate>
+          <filename>Whise - Depth</filename>
+          <id3genre>33</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/2.0/uk/</license_artwork>
+          <Tracks>
+            <track>
+              <id>145900</id>
+              <name>Rastlose Liebe</name>
+              <duration>386</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Whise - Rastlose Liebe</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145917</id>
+              <name>I'm lonely with you</name>
+              <duration>246</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Whise - I'm lonely with you</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145927</id>
+              <name>Yellow light</name>
+              <duration>230</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Whise - Yellow light</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145930</id>
+              <name>She is already adult</name>
+              <duration>261</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Whise - She is already adult</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145939</id>
+              <name>Clockwork doll</name>
+              <duration>169</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Whise - Clockwork doll</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145940</id>
+              <name>Rain in a park</name>
+              <duration>318</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - Whise - Rain in a park</filename>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145942</id>
+              <name>Reunion</name>
+              <duration>236</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - Whise - Reunion</filename>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145946</id>
+              <name>Alive picture of beauty</name>
+              <duration>251</duration>
+              <numalbum>8</numalbum>
+              <filename>08 - Whise - Alive picture of beauty</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>145950</id>
+              <name>She is already adult (piano)</name>
+              <duration>153</duration>
+              <numalbum>9</numalbum>
+              <filename>09 - Whise - She is already adult (piano)</filename>
+              <Tags>
+                <tag>
+                  <idstr>jazz</idstr>
+                  <weight>0.282</weight>
+                </tag>
+                <tag>
+                  <idstr>fusion</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>swing</idstr>
+                  <weight>0.024</weight>
+                </tag>
+                <tag>
+                  <idstr>piano</idstr>
+                  <weight>0.018</weight>
+                </tag>
+                <tag>
+                  <idstr>freejazz</idstr>
+                  <weight>0.018</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+        <album>
+          <id>5591</id>
+          <name>Welcome to My Garden (Fur Schwarz)</name>
+          <url>http://www.jamendo.com/album/5591</url>
+          <releasedate>2007-05-14T18:53:07+01:00</releasedate>
+          <filename>Whise - Welcome to My Garden Fur Schwarz</filename>
+          <id3genre>33</id3genre>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-sa/3.0/</license_artwork>
+          <Tracks>
+            <track>
+              <id>46437</id>
+              <name>Welcome to My Garden</name>
+              <duration>186</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - Whise - Welcome to My Garden</filename>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>46438</id>
+              <name>Bypass My Favourite Flowers</name>
+              <duration>134</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - Whise - Bypass My Favourite Flowers</filename>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>46439</id>
+              <name>Look at This Red Sky</name>
+              <duration>490</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - Whise - Look at This Red Sky</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.108</weight>
+                </tag>
+                <tag>
+                  <idstr>classical</idstr>
+                  <weight>0.042</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>46440</id>
+              <name>Look at This Burnt Grass</name>
+              <duration>362</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - Whise - Look at This Burnt Grass</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.108</weight>
+                </tag>
+                <tag>
+                  <idstr>classical</idstr>
+                  <weight>0.042</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+            <track>
+              <id>46441</id>
+              <name>But! I Have These Bright Roses...</name>
+              <duration>301</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - Whise - But! I Have These Bright Roses</filename>
+              <Tags>
+                <tag>
+                  <idstr>instrumental</idstr>
+                  <weight>0.207</weight>
+                </tag>
+                <tag>
+                  <idstr>postrock</idstr>
+                  <weight>0.108</weight>
+                </tag>
+                <tag>
+                  <idstr>classical</idstr>
+                  <weight>0.042</weight>
+                </tag>
+                <tag>
+                  <idstr>guitar</idstr>
+                  <weight>0.027</weight>
+                </tag>
+                <tag>
+                  <idstr>newage</idstr>
+                  <weight>0.024</weight>
+                </tag>
+              </Tags>
+              <mbgid/>
+              <id3genre>33</id3genre>
+              <license>http://creativecommons.org/licenses/by-nc-sa/3.0/</license>
+            </track>
+          </Tracks>
+        </album>
+      </Albums>
+    </artist>
+    <artist>
+      <id>5984</id>
+      <name>DIVAL</name>
+      <url>http://www.jamendo.com/artist/dival</url>
+      <image>http://imgjam.com/artists/d/dival.jpg</image>
+      <mbgid/>
+      <location>
+        <country>DEU</country>
+        <state>NW</state>
+        <city>Düsseldorf</city>
+        <latitude>None</latitude>
+        <longitude>None</longitude>
+      </location>
+      <Albums>
+        <album>
+          <id>88342</id>
+          <name>You Know I'm No Good</name>
+          <url>http://www.jamendo.com/album/88342</url>
+          <releasedate>2011-03-31T00:19:41+01:00</releasedate>
+          <filename>DIVAL - You Know I'm No Good</filename>
+          <mbgid/>
+          <license_artwork>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license_artwork>
+          <Tracks>
+            <track>
+              <id>755544</id>
+              <name>Busted Love </name>
+              <duration>305.0</duration>
+              <numalbum>1</numalbum>
+              <filename>01 - DIVAL - Busted Love</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755545</id>
+              <name>Böses Kind </name>
+              <duration>183.0</duration>
+              <numalbum>2</numalbum>
+              <filename>02 - DIVAL - Boses Kind</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755546</id>
+              <name>Login Home </name>
+              <duration>435.0</duration>
+              <numalbum>3</numalbum>
+              <filename>03 - DIVAL - Login Home</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755547</id>
+              <name>Have a little Jojo </name>
+              <duration>245.0</duration>
+              <numalbum>4</numalbum>
+              <filename>04 - DIVAL - Have a little Jojo</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755548</id>
+              <name>When Loves You </name>
+              <duration>235.0</duration>
+              <numalbum>5</numalbum>
+              <filename>05 - DIVAL - When Loves You</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755551</id>
+              <name>Das Leben liebt uns </name>
+              <duration>192.0</duration>
+              <numalbum>6</numalbum>
+              <filename>06 - DIVAL - Das Leben liebt uns</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755552</id>
+              <name>Take </name>
+              <duration>319.0</duration>
+              <numalbum>7</numalbum>
+              <filename>07 - DIVAL - Take</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755553</id>
+              <name>Lonesome Tears </name>
+              <duration>351.0</duration>
+              <numalbum>8</numalbum>
+              <filename>08 - DIVAL - Lonesome Tears</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+            <track>
+              <id>755570</id>
+              <name>Religions </name>
+              <duration>539.0</duration>
+              <numalbum>9</numalbum>
+              <filename>09 - DIVAL - Religions</filename>
+              <mbgid/>
+              <license>http://creativecommons.org/licenses/by-nc-nd/2.0/de/</license>
+            </track>
+          </Tracks>
+        </album>
+      </Albums>
+    </artist>
+  </Artists>
+</JamendoData>

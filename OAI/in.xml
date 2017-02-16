@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?><OAI-PMH xmlns="http://www.openarchives.org/OAI/2.0/" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.openarchives.org/OAI/2.0/ http://www.openarchives.org/OAI/2.0/OAI-PMH.xsd"><responseDate>2010-12-27T13:35:39.152Z</responseDate><request metadataPrefix="dcx index admin" verb="GetRecord" identifier="EDEPOT:EWTIJ:00008:13807854v10n120051209s1">http://services.kb.nl/mdo/oai</request><GetRecord><record><header><identifier>EDEPOT:EWTIJ:00008:13807854v10n120051209s1</identifier><datestamp>2008-01-01</datestamp></header><metadata><srw_dc:dc xmlns:srw_dc="info:srw/schema/1/dc-v1.1" xmlns:marcrel="http://www.loc.gov/loc.terms/relators/" xmlns:dcx="http://krait.kb.nl/coop/tel/handbook/telterms.html" xmlns:mods="http://www.loc.gov/mods" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:dcterms="http://purl.org/dc/terms/" xmlns:dc="http://purl.org/dc/elements/1.1/">
+   <dcx:recordIdentifier>EWTIJ:00008:13807854v10n120051209s1</dcx:recordIdentifier>
+   <dc:title>Acknowledgements</dc:title>
+   <dcterms:bibliographicCitation>Medieval encounters, v. 10, no. 1 (2004-04-01), p. 7-7</dcterms:bibliographicCitation>
+   <dc:publisher>Brill, Leiden/Boston</dc:publisher>
+   <dcterms:issued xsi:type="ISO8601">2004-04-01</dcterms:issued>
+   <dc:type xsi:type="dcterms:DCMIType">Text</dc:type>
+   <dc:type xml:lang="en" xsi:type="TELType">article</dc:type>
+   <dcterms:extent>p. 7-7</dcterms:extent>
+   <dc:identifier xsi:type="DOI">10.1163/1570067043077896</dc:identifier>
+   <dc:identifier xsi:type="dcterms:URI">http://resolver.kb.nl/resolve?urn=urn:nbn:nl-kb:edepot:ewtij:1199095668559</dc:identifier>
+   <dc:identifier xsi:type="OpenURL">issn=13807854&amp;date=2004&amp;volume=10&amp;issue=1&amp;pages=7-7</dc:identifier>
+   <dcterms:isPartOf>Medieval encounters</dcterms:isPartOf>
+   <dcterms:isPartOf xsi:type="dcx:refNBN">0000000090065</dcterms:isPartOf>
+   <dcterms:isPartOf xsi:type="dcterms:ISSN">13807854</dcterms:isPartOf>
+   <dcterms:isPartOf xsi:type="volumeId">issn_13807854_volume_10</dcterms:isPartOf>
+   <dcterms:isPartOf xsi:type="volumeId">refNBN_0000000090065_volume_10</dcterms:isPartOf>
+   <dcterms:isPartOf xsi:type="issueId">issn_13807854_volume_10_issue_1</dcterms:isPartOf><dcterms:isPartOf xsi:type="issueId">refNBN_0000000090065_volume_10_issue_1</dcterms:isPartOf>
+   <dcterms:accessRights>restricted</dcterms:accessRights>
+   <dc:rights>(c) 2004 Brill Academic Publishers</dc:rights>
+   <dcterms:isPartOf xsi:type="collection">Elektronische Wetenschappelijke Tijdschriften</dcterms:isPartOf>
+   <dcterms:isPartOf xsi:type="collectionIdentifier">EWTIJ</dcterms:isPartOf>
+   </srw_dc:dc><index>
+   <collectionIdentifier>EWTIJ</collectionIdentifier>
+   <volume>10</volume>
+   <issue>1</issue>
+   <issn>13807854</issn>
+  <refNBN>0000000090065</refNBN>
+  <owner-id>00008</owner-id>
+  <dcterms:accessRights xmlns:dcterms="http://purl.org/dc/terms/">restricted</dcterms:accessRights>
+  <NBN-number>1199095668559</NBN-number>
+  <date>2004-004-001</date>
+  </index><admin>
+   <version stylesheet="dcx.batch.ewtij.xsl">0.2</version>
+   <version stylesheet="dcx.record.ewtij.xsl">0.1.1</version>
+   <record-version>2.2</record-version>
+   <owner-id>00008</owner-id>
+  <productiondate-key>2007-12-31</productiondate-key>
+  <history><nbn>1150565859083</nbn></history></admin></metadata></record></GetRecord></OAI-PMH>

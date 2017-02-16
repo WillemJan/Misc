@@ -1,0 +1,10 @@
+<Files rie.py>
+    SetHandler wsgi-script
+    Options +ExecCGI 
+</Files>
+
+RewriteEngine on
+RewriteBase /
+RewriteCond %{REQUEST_URI} !^/static
+RewriteCond %{REQUEST_URI} !^(/.*)+rie.py
+RewriteRule ^(.*)$ rie.py/$1 [PT]

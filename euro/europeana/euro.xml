@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <rss version="2.0" 
+      xmlns:opensearch="http://a9.com/-/spec/opensearch/1.1/"
+      xmlns:atom="http://www.w3.org/2005/Atom">
+   <channel>
+     <title>Europeana Open Search result</title>
+     <link>http://api.europeana.eu/api/opensearch.rss?searchTerms=einstein&amp;startPage=1</link>
+     <description>einstein - Europeana Open Search</description>
+     <opensearch:totalResults>303</opensearch:totalResults>
+     <opensearch:startIndex>0</opensearch:startIndex>
+     <opensearch:itemsPerPage>12</opensearch:itemsPerPage>
+     <atom:link rel="search" type="application/opensearchdescription+xml" href="http://api.europeana.eu/api/opensearch.rss.xml" title="Europeana Search"/>
+     <opensearch:Query role="request" searchTerms="einstein" startPage="1" />
+     <item>
+        <title>Albert Einstein</title>
+        <link>http://www.europeana.eu/portal/record/08502/71EFAECFE2696A0C54B6129C17936E72F1F36B2B.srw?wskey=ATVPVJJCUA</link>
+        <description>Jacob Epstein [Create];1933;Athena</description>
+         <enclosure url="http://www.imj.org.il/images/corridor/bezalel/modern/epstein/epstein-albert einstein~1630_66$281.jpg" />
+     </item>
+     <item>
+        <title>Elementarbuch der Hebräischen Sprache oder practische Anleitung, das Hebräische (nach Ahn&#39;s bekannter Lehrmethode) in kurzer Zeit lesen, schreiben und übersetzen zu lernen : für Jeden, der ohne Beihilfe eines Lehrers in den Geist der Hebräischen Sprache eindringen und zur Kenntniß der heiligen Schriften im Urtexte gelangen will, und mit besonderer Rücksicht für israelitische Volksschulen bearbeitet / von L. Einstein</title>
+        <link>http://www.europeana.eu/portal/record/09302/A93000D7A6B7D75713E8DAEE33D7AACF113D741E.srw?wskey=ATVPVJJCUA</link>
+        <description>Einstein, L.;Judaica Europeana</description>
+         <enclosure url="http://www.judaica-frankfurt.de/download/webcache/1000/1083981" />
+     </item>
+     <item>
+        <title>Portrait of Erwin Finlay Freundlich (1885-1964)</title>
+        <link>http://www.europeana.eu/portal/record/00401/69428C85F7F60CD7D92A1BEDD83D36FEDB4886CB.srw?wskey=ATVPVJJCUA</link>
+        <description>University of St Andrews - Museum Collections;Scran</description>
+         <enclosure url="http://images.scran.ac.uk/RB/images/thumb/0844/08440099.jpg" />
+     </item>
+     <item>
+        <title>Waarom, waarom zijn de bananen krom?</title>
+        <link>http://www.europeana.eu/portal/record/92034/535E8E06BB27E1C2EEDE0142F246051452AC7195.srw?wskey=ATVPVJJCUA</link>
+        <description>The European Library</description>
+         <enclosure url="http://resolver.kb.nl/resolve?urn=urn:gvn:KBMI01:LBLMOORMANNK035-001&amp;role=thumbnail" />
+     </item>
+     <item>
+        <title>Albert Einstein, cosmos and religion</title>
+        <link>http://www.europeana.eu/portal/record/92040/9D96BA681BA597D3E94DE9C04482E6B823BBF463.srw?wskey=ATVPVJJCUA</link>
+        <description>Doković V.;2007;The European Library</description>
+         <enclosure url="http://www.doiserbia.nb.rs/images/doi/1450698X_0.jpg" />
+     </item>
+     <item>
+        <title>Wissenschaftspark Albert Einstein in Potsdam</title>
+        <link>http://www.europeana.eu/portal/record/01004/5073E619DE705E3682EB3B537B3DF49EFC73059B.srw?wskey=ATVPVJJCUA</link>
+        <description>2000;Deutsche Fotothek</description>
+         <enclosure url="http://fotothek.slub-dresden.de/thumbs/elb_euroluftbild_0006858.jpg" />
+     </item>
+     <item>
+        <title>Auf einmal ist alles relativ</title>
+        <link>http://www.europeana.eu/portal/record/92201/F9B9A900520F050651CB7473B8D036D549272C35.srw?wskey=ATVPVJJCUA</link>
+        <description>2003;Stadtgeschichtliches Museum Leipzig</description>
+         <enclosure url="http://museum.zib.de/sgml/bilder/gross/z0002250.jpg" />
+     </item>
+     <item>
+        <title>Professor Doctor Hendrik Antoon Lorentz (1853-1928) natuurkundige en grondlegger van de theorie der electronen. Hendrik Lorentz ontving samen met Pieter Zeeman in 1902 de Nobelprijs voor de Natuurkunde voor hun onderzoek naar de invloed van magnetisme op stralingsverschijnselen. Professor Lorentz was sinds 1877 hoogleraar aan de Universiteit van Leiden. Zijn onderzoekingen op het gebied der electro-dynamica werden de grondslagen van Einstein&#39;s relativiteitstheorie.</title>
+        <link>http://www.europeana.eu/portal/record/92106/D01DB2DA7C9D9D0C163267D684C826BFF13D0636.srw?wskey=ATVPVJJCUA</link>
+        <description>Nationaal Archief</description>
+         <enclosure url="http://na.memorix.nl/oai2/?image=na:col1:dat470660:119_0446.jpg&amp;type=large" />
+     </item>
+     <item>
+        <title>Einstein had verstand van relativeren. Zou hij ook geweten hebben welke superregelaar maar tot een telt? Triviant De Nederlandse versie van Trivial Pursuit Wie &#39;&#39;t weet, die wint.</title>
+        <link>http://www.europeana.eu/portal/record/92034/3ED8A89DC08E7D53F83E5F7572F987DC67AB02A1.srw?wskey=ATVPVJJCUA</link>
+        <description>Horn Abbot International Ltd.;The European Library</description>
+         <enclosure url="http://resolver.kb.nl/resolve?urn=urn:gvn:RA01:30051001511101&amp;role=thumbnail" />
+     </item>
+     <item>
+        <title>Waarom, waarom zijn de bananen krom?</title>
+        <link>http://www.europeana.eu/portal/record/92034/FC6A7F427128D25B1BE6A4C3A0D27EAB24E3067A.srw?wskey=ATVPVJJCUA</link>
+        <description>The European Library</description>
+         <enclosure url="http://resolver.kb.nl/resolve?urn=urn:gvn:KBMI01:LBLMOORMANNK066A-014&amp;role=thumbnail" />
+     </item>
+     <item>
+        <title>Waarom, waarom zijn de bananen krom?</title>
+        <link>http://www.europeana.eu/portal/record/92034/517B347786F5DDB91FF1332E5FE657C532457643.srw?wskey=ATVPVJJCUA</link>
+        <description>The European Library</description>
+         <enclosure url="http://resolver.kb.nl/resolve?urn=urn:gvn:KBMI01:LBLMOORMANNK066B-016&amp;role=thumbnail" />
+     </item>
+     <item>
+        <title>Waarom, waarom zijn de bananen krom?</title>
+        <link>http://www.europeana.eu/portal/record/92034/35A3FF3E801143AB2BBE5BDC18E525FE66BEB715.srw?wskey=ATVPVJJCUA</link>
+        <description>The European Library</description>
+         <enclosure url="http://resolver.kb.nl/resolve?urn=urn:gvn:KBMI01:LBLKBWOUTERS12127-006&amp;role=thumbnail" />
+     </item>
+   </channel>
+ </rss>

@@ -1,0 +1,15 @@
+#!/usr/bin/env python
+
+import os
+import sys
+
+from Fe2.tools import sql
+from Fe2.tools.solr import Solr
+
+log = log.create_logger(__file__.split(os.sep)[-1])
+
+solr = Solr(log=log)
+solr.query()
+
+
+

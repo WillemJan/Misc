@@ -1,0 +1,64 @@
+# The ASF licenses this file to You under the Apache License, Version 2.0
+# (the "License"); you may not use this file except in compliance with
+# the License.  You may obtain a copy of the License at
+#
+#     http://www.apache.org/licenses/LICENSE-2.0
+#
+# Unless required by applicable law or agreed to in writing, software
+# distributed under the License is distributed on an "AS IS" BASIS,
+# WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
+# See the License for the specific language governing permissions and
+# limitations under the License.
+
+#-----------------------------------------------------------------------
+#some test synonym mappings unlikely to appear in real input text
+#aaa => aaaa
+#bbb => bbbb1 bbbb2
+#ccc => cccc1,cccc2
+#a\=>a => b\=>b
+#a\,a => b\,b
+#fooaaa,baraaa,bazaaa
+
+# Some synonym groups specific to this example
+#GB,gib,gigabyte,gigabytes
+#MB,mib,megabyte,megabytes
+#Television, Televisions, TV, TVs
+#notice we use "gib" instead of "GiB" so any WordDelimiterFilter coming
+#after us won't split it into two words.
+
+# Synonym mappings can be used for spelling correction too
+#pixima => pixma
+Amerikaanse => verenigde staten
+Eindhovense => eindhoven
+Londense => londen
+Italiaanse => italie
+Luxemburgse => luxemburg
+Noordafrikaanse => noord afrika
+Slowaakse => slowakije
+Tsjechoslowakije => slowakije
+Tsjechoslowakse => slowakije
+Franse => 07797610x
+Frankrijk => 07797610x
+Duitse => duitsland
+Russische => rusland
+Italiaanse => italie
+IJmuidense => ijmuiden
+Roemeense => roemenië
+Nederlandse => nederland
+Belgische => belgie
+Vlaamse => belgie
+Joegoslavische => balkan
+Engelse => engeland
+London => londen,stad
+Londen => londen,stad
+Britse => united,kingdom
+China => volksrepubliek,china
+Beatrix => beatrix koningin der nederlanden 
+Libanese => republiek libanon
+libanezen => republiek libanon
+Italie => italia
+Canadeese => canada
+Duits => duitsland
+Noorse => noorwegen 
+Belgische => belgie
+Nederlandse => verenigd koninkrijk der nederlanden

@@ -1,0 +1,247 @@
+#!/usr/bin/env python
+
+"""
+    Rss reader.
+"""
+
+import os
+import sys
+
+import datetime
+import feedparser
+import hashlib
+import requests
+import lxml.html
+
+from subprocess import Popen, PIPE
+
+from Fe2.tools.config import Config
+from Fe2.tools import log
+from Fe2.tools.solr import Solr
+
+def _timetuple_solr(p):
+    timestamp = "%s-%s-%sT%s:%s:%sZ" % (p.tm_year,
+                                        p.tm_mon,
+                                        p.tm_mday,
+                                        p.tm_hour,
+                                        p.tm_min,
+                                        p.tm_sec)
+    return(timestamp)
+
+
+
+class Article(dict):
+    article_id = None
+    summary = None
+
+    def __init__(self, entry, feed_id):
+        dict.__init__(self)
+        self["feed_id"] = feed_id
+        self["published"] = entry.get("published", "")
+        self["title"] = entry.get("title")
+        self["url"] = entry.get("link")
+        if self["url"]:
+            WEBKIT = "/usr/bin/python /home/aloha/usr/lib/python-webkit2png/webkit2png.py"
+            hash=hashlib.md5(self["url"]).hexdigest()
+            cmd = WEBKIT + " --aspect-ratio crop --scale 1024 768 -d :25 -t 180 -F javascript -F plugins -o " + hash + ".jpg" + " '" + self["url"] + "'"
+            p = Popen(cmd, shell = True, stdin = PIPE, stdout = PIPE)
+            p.communicate()[1]
+
+        timestamp = datetime.datetime.now().timetuple()
+        self["timestamp"] = _timetuple_solr(timestamp)
+        self["article_id"] = self.article_id
+        try:
+            summary = lxml.html.fromstring(entry.get("summary"))
+            self["summary"] = ' '.join(summary.xpath('//text()')).strip()
+        except:
+            self["summary"] = entry.get("summary")
+
+    def __getattribute__(self, key):
+        val = dict.__getattribute__(self, key)
+        if key == 'article_id':
+            article_id = dict.__getattribute__(self, 'article_id')
+            if not article_id:
+                feed_id = self.get('feed_id')
+                published = self.get('published', "")
+                title = self.get('title')
+                if not published:
+                    published = ""
+                article_id = feed_id + title + published
+                val = hashlib.md5(str(article_id.encode('ascii', 'ignore'))).hexdigest()
+                dict.__setattr__(self, 'article_id', val)
+        return(val)
+
+    def _get_html(url):
+        data = requests.get(url)
+        try:
+            data = data.content.encode('utf-8', 'ignore')
+        except:
+            data = unicode(data.content, errors='ignore')
+        data = data.decode('utf-8', 'ignore').encode('ascii', 'ignore')
+        try:
+            data = lxml.html.fromstring(data)
+        except:
+            return([])
+        lines = []
+        for item in data.getchildren():
+            for line in (item.xpath('//text()')):
+                if item.tag == "body":
+                    if len(line.replace('\n', '').strip()) > 2:
+                        lines.append(line)
+        return(lines)
+
+
+
+class Feed(dict):
+    language = "nl"
+    feed_id = None
+
+    def __init__(self, name, section, url, solr):
+        self["name_str"] = name
+        self["section_str"] = section
+        self["url_str"] = url
+
+        timestamp = datetime.datetime.now().timetuple()
+        self["last_update_dt"] = _timetuple_solr(timestamp)
+        self["feed_id"] = self.feed_id
+
+        q = solr.feed.query('feed_id:%s' % self.feed_id)
+        if q.hits == 0:
+            self["etag_str"] = None
+            self["modified_str"] = None
+        if q.hits == 1:
+            self["etag_str"] = q.docs[0].get('etag_str', None)
+            self["modified_str"] = q.docs[0].get('modified_str', None)
+        if self["etag_str"]:
+            feed = feedparser.parse(url, etag=self["etag_str"][0])
+        else:
+            if self["modified_str"]:
+                feed = feedparser.parse(url, modified=self["modified_str"][0])
+            else:
+                feed = feedparser.parse(url)
+
+
+        self["modified_str"] = feed.get('modified', None)
+        self["etag_str"] = feed.get('etag', None)
+        self["title_str"] = feed.get('feed').get('title')
+        self["subtitle_str"] = feed.get('feed').get("subtitle")
+        image_url = feed.get('feed').get("image")
+        if image_url:
+            self["image_url_str"] = image_url.get("href")
+        self["language_str"] = feed.get("language", self.language)
+        update = False
+        if feed.status != 304:  # no updates:
+            for entry in feed.entries:
+                article = Article(entry, self["feed_id"])
+                q=solr.article.query("article_id:"+article["article_id"])
+                if q.hits == 0:
+                    solr.article.post_data([article])
+                    update = True
+        self.updated = update
+        if self.updated:
+            solr.feed.post_data([self])
+        dict.__init__(self)
+
+    def __getattribute__(self, key):
+        val = dict.__getattribute__(self, key)
+        if key == 'feed_id':
+            feed_id = dict.__getattribute__(self, 'feed_id')
+            if not feed_id:
+                feed_id_str = dict.get(self, 'url_str')
+                feed_id_str += dict.get(self, 'name_str')
+                val = hashlib.md5(feed_id_str).hexdigest()
+                dict.__setattr__(self, 'feed_id', val)
+        return(val)
+
+class Solr_RSS():
+    def __init__(self):
+        self.article = Solr("http://localhost:8983/solr/rss_article/")
+        self.feed = Solr( "http://localhost:8983/solr/rss_feed/")
+
+#solr_data = solr_feed.query('id:%s' % feed["id"])
+#pprint.pprint(feed["feed"])
+
+def get_rss_feeds():
+    #solr_article = Solr("http://localhost:8983/solr/rss_article/")
+    #solr_feed = Solr("http://localhost:8983/solr/rss_feed/")
+    solr = Solr_RSS()
+    logger = log.create_logger(__file__.split(os.sep)[-1])
+    logger.info("Running " + __file__.split(os.sep)[-1])
+    config = Config('news')
+    for section in config:
+        for feed_name in config[section]:
+            url = config[section][feed_name]
+            feed = Feed(feed_name, section, url, solr)
+            if (feed.updated):
+                print(url)
+
+'''
+            feed, entries = parse_feed(url, feed_name, solr_feed)
+            feed.section = section
+            if solr_data.hits == 1:
+                feed["following_since"] = solr_data.docs[0]["following_since"]
+            else:
+                timestamp = datetime.datetime.now().timetuple()
+                feed["following_since"] = _timetuple_solr(timestamp)
+            solr_feed.post_data([feed])
+            for entry in entries:
+                article = Article(entry, feed.feed_id)
+                if solr_article.query('id:%s' % article.article_id).hits == 0:
+                    solr_article.post_data([article])
+                #post_arcticle_to_solr(solr, article)
+            #summary = entries[0].get("summary")
+
+            #summary = lxml.html.fromstring(summary)
+            #print(' '.join(summary.xpath('//text()')).strip())
+        for feed in item["feeds"].split(','):
+            if not feed.strip() in source:
+                source.append(feed.strip())
+    cache = Cache('rss')
+    for feed in source:
+        feed_data = cache[feed]
+        print(feed, len(feed_data["entries"]))
+        if len(feed_data["entries"]):
+            for entry in (feed_data["entries"]):
+ahash =  hashlib.md5(entry["title"].encode('ascii', 'xmlcharrefreplace')+feed).
+hexdigest()
+                if solr.query('id:"%s"' % ahash).hits == 0:
+                    article.data["id"] = ahash
+                    p = entry.get("published_parsed",'')
+                    if p:
+                        published = "%s-%s-%sT%s:%s:%sZ" % (p.tm_year,
+                                                            p.tm_mon,
+                                                            p.tm_mday,
+                                                            p.tm_hour,
+                                                            p.tm_min,
+                                                            p.tm_sec)
+                        article.data["published"] =  published
+                    else:
+                        article.data["published"] =  "2000-01-01T01:01:01Z"
+
+                    article.data["url"] = entry["links"][0]["href"]
+                    article.data["title"] = entry["title"].replace("'",'').rep
+                    lace('"','').replace('`','').strip()
+                    article.data["feedsource"] = feed
+                    p = datetime.datetime.now().timetuple()
+                    timestamp = "%s-%s-%sT%s:%s:%sZ" % (p.tm_year,
+                                                        p.tm_mon,
+                                                        p.tm_mday,
+                                                        p.tm_hour,
+                                                        p.tm_min,
+                                                        p.tm_sec)
+                    article.data["timestamp"] = timestamp
+                    html = _get_html(article.data["url"])
+                    article.data["html"] = html
+                    summary = entry["summary"]
+                    if summary.find('>') > -1:
+                        summary = lxml.html.fromstring(summary)
+article.data["summary"] = ' '.join(summary.xpath('//text()'))
+                    solr.post_data(article.solr_article)
+'''
+
+
+def main():
+    get_rss_feeds()
+
+if __name__ == "__main__":
+    sys.exit(main())

@@ -1,0 +1,30 @@
+#!/bin/sh
+
+tree()
+{
+	val=$1
+
+	curl -v 'http://www.xmas4all.net/2007/nl/index.asp' &> /tmp/kerst4all.html
+	id=`grep '?g=' /tmp/kerst4all.html | head -1 | cut -d '=' -f 4- | cut -d '&' -f 1`
+	koek=`grep Cookie /tmp/kerst4all.html | cut -d ' ' -f 3 | cut -d ';' -f 1`
+
+	for a in `seq 1 8`; do
+		curl \
+			--silent \
+			--cookie ${koek} \
+			--referer 'http://www.xmas4all.net/2007/nl/index.asp' \
+			"http://www.xmas4all.net/2007/nl/../scripts/sw2.asp?g=${id}&ch=${a}&v=${val}"  \
+			&>/dev/null &
+	done
+
+	rm /tmp/kerst4all.html
+}
+
+
+if [ "$1" == "on" ]; then
+	state=1
+else
+	state=0
+fi
+
+tree $state

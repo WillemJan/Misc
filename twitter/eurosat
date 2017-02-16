@@ -1,0 +1,22 @@
+#!/bin/bash
+
+BASEDIR="/home/aloha"
+
+HURRICANE_NAME="eurosat"
+HURRICANE_IMAGE="http://images.intellicast.com/WeatherImg/Satellite/europ.jpg"
+
+export WWW_PROXY="http://wwwproxy.xs4all.nl:8080"
+
+day=`date +%Y-%m-%d`
+
+if [ -d $BASEDIR/$HURRICANE_NAME/$day ]; then 
+	time="eurosat-"`date +%H:%M.jpg`
+	lynx -dump -source $HURRICANE_IMAGE > $BASEDIR/$HURRICANE_NAME/$day/$time && convert -scale 800x600 $BASEDIR/$HURRICANE_NAME/$day/$time $BASEDIR/$HURRICANE_NAME/$day/$time
+
+    #http://www.ssd.noaa.gov/goes/east/gmex/rb.jpg > $BASEDIR/$HURRICANE_NAME/$day/$time
+else
+	mkdir -p $BASEDIR/$HURRICANE_NAME/$day
+	time="eurosat-"`date +%H:%M.jpg`
+	lynx -dump -source $HURRICANE_IMAGE > $BASEDIR/$HURRICANE_NAME/$day/$time && convert -scale 800x600 $BASEDIR/$HURRICANE_NAME/$day/$time $BASEDIR/$HURRICANE_NAME/$day/$time
+fi
+

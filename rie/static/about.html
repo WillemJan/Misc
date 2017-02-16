@@ -1,0 +1,41 @@
+<html>
+
+
+<head>
+
+<META NAME="Description" CONTENT="About (Random Image Explorer) Europeana. Python wrapper API Europeana. xml json ajax example code.">
+
+<META http-equiv="Content-Type" CONTENT="text/html; charset=iso-8859-1">
+<style>
+body, div, span, object, iframe, h1, h2, h3, h4, h5, h6, p, blockquote, pre, a, abbr, acronym, address, code, del, dfn, em, img, q, dl, dt, dd, ol, ul, li, fieldset, form, label, legend, table, caption, tbody, tfoot, thead, tr, th, td, article, aside, dialog, figure, footer, header, hgroup, nav, section {margin:0;padding:0;border:0;font-weight:inherit;font-style:inherit;font-size:100%;font-family:inherit;vertical-align:baseline;}
+body { overflow: hidden; font: 13px Verdana,Arial,'Bitstream Vera Sans',Helvetica,sans-serif; width:1000px;} 
+p {font-size: 14px; }
+h3 { font-weight: bold; font-size: 20px; }
+</style>
+
+<title>RiE# About (Random Image Explorer) Europeana</title>
+</head>
+
+<body>
+<img src='http://fe2.nl/random_projects/europeana_RiE/blackcat-0.png' style='float: right; height: 70px;'>
+<h3>About the Europeana - Random image Explorer</h3><br>
+See live demo <a href='http://europeana.fe2.nl/'>here</a>.<br/><br/>
+<img src='europeana.png' style='float: right'>
+
+<p> This program is a somewhat polished up version, of a prototype developed at the <a href='http://version1.europeana.eu/web/api/hackathons'>Europeana Hackathon</a>, it was one of the <a href='http://version1.europeana.eu/web/api/application-gallery'>price winning</a> prototypes. It used to contain a black cat, but I changed it to use the <a href='http://www.europeana.eu'>Europeana</a> picture API.
+<br/><br/><p>
+If you move the mouse over one of the images, the search box gets populated with a new query based upon the metadata from that object, if you click on an image, the query runs.
+<br><br><p>
+It depends on a lot of python stuff, and is mainly built upon webpy, mako, jquery. The client does a request containing a query, the query is resolved via               the <a href='http://europeanalabs.eu/wiki/EuropeanaOpenSearchAPI'>Europeana API</a>. The client receives a page containing ajax requests to the full objects (/get/). The program fetches the full object descriptions and returns them in json format.  <br/><br/><p>
+Code was written by Willem Jan Faber, ( <a href='http://www.kb.nl/'>Koninklijke Bibliotheek</a> - <a href='http://www.kb.nl/index-en.html'>National Library of the Netherlands</a> ).
+<br/><br/><p>
+See the <a href='http://fe2.nl/random_projects/?project_name=Europeana%20Random%20image%20Explorer&project_file=rie.py'>RiE</a> <a href='http://fe2.nl/random_projects/?project_name=Europeana%20Random%20image%20Explorer&project_file=api.py'>source</a> <a href='http://fe2.nl/random_projects/?project_name=Europeana%20Random%20image%20Explorer&project_file=template.py'>files</a>, or <a href='/static/rie_europeana.tar.gz'>tarball</a>. For an API key contact <a href='http://europeanalabs.eu/wiki/EuropeanaOpenSearchAPI'>Europeana</a>.
+<br>
+<br>
+
+<iframe src="/" width="100%" height="200" style="display:'block'">
+  <p>Your browser does not support iframes.</p>
+</iframe>
+</body>
+
+</html>

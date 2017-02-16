@@ -1,0 +1,14 @@
+To Install:
+===========
+
+    1) Setup virtualenv:
+        virtualenv .
+
+    2) Install requerments:
+        sudo apt-get install sqlite3 libsqlite3-dev libxml2-dev libxslt1-dev
+
+    3) Activate virtualenv
+        source bin/activate
+
+    3) Run setup.py
+        python setup.py install
