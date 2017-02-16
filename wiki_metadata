@@ -1,0 +1,14 @@
+#!/bin/sh
+ls -la  ./metadata/wikipedia/artist/"$1" 2> /dev/null 1> /dev/null && echo "ok0" && exit
+#wikipedia2text $1 > /tmp/wiki
+wikipedia2text $1"_(band)" > /tmp/wiki
+cat /tmp/wiki | grep "Discography" > /dev/null && mv /tmp/wiki ./metadata/wikipedia/artist/"$1" && echo "ok" && exit
+cat /tmp/wiki | grep "Music" > /dev/null && mv /tmp/wiki ./metadata/wikipedia/artist/"$1" && echo "ok" && exit
+
+wikipedia2text $1 > /tmp/wiki
+cat /tmp/wiki | grep "Discography" > /dev/null && mv /tmp/wiki ./metadata/wikipedia/artist/"$1" && echo "ok" && exit
+cat /tmp/wiki | grep "Music" > /dev/null && mv /tmp/wiki ./metadata/wikipedia/artist/"$1" && echo "ok" && exit
+
+echo "No wiki metadata found for : "$1 > ./metadata/wikipedia/artist/$1
+
+exit

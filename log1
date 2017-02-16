@@ -1,0 +1,442 @@
+posix.stat_result(st_mode=16877, st_ino=18827030, st_dev=2049L, st_nlink=9, st_uid=1061, st_gid=1000, st_size=4096, st_atime=1246781497, st_mtime=1246732906, st_ctime=1246732906)
+
+Working on file 0 of 88 : 
+ /mnt/disk2/Videos/tes/Lost.S05E10.VOST.FR (RYADONTIE).avi
+ hash : 0a437876961b27b4976f20f256de272a
+[u'1482076110', u'0a437876961b27b4976f20f256de272a', u'RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/Lost.S05E10.VOST.FR (RYADONTIE).avi']
+
+Working on file 1 of 88 : 
+ /mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo
+ hash : 4a142761e03886b92449982e3455ab7e
+[u'1902483536', u'4a142761e03886b92449982e3455ab7e', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo']
+
+Working on file 2 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon
+ hash : 071b4c4be722e6d236998e3b036bc7bf
+[u'1208478674', u'071b4c4be722e6d236998e3b036bc7bf', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon']
+
+Working on file 3 of 88 : 
+ /mnt/disk2/Videos/tes/Survival Beyond the 10 Essentials XviD.avi
+ hash : b9e8aab11d78ecf366247e2407fbbd64
+[u'2263707617', u'b9e8aab11d78ecf366247e2407fbbd64', u'RIFF (little-endian) data, AVI, 528 x 352, ~30 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/Survival Beyond the 10 Essentials XviD.avi']
+
+Working on file 4 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)
+ hash : eaec28f1399b3a1b0b849953fe327c2d
+[u'104490413', u'eaec28f1399b3a1b0b849953fe327c2d', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)']
+
+Working on file 5 of 88 : 
+ /mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo
+ hash : ef741ef671dcae74f98f8b4689bc2673
+[u'1275257694', u'ef741ef671dcae74f98f8b4689bc2673', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo']
+
+Working on file 6 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether
+ hash : 818ad046940cfb751e03d8cf615a4945
+[u'1960504771', u'818ad046940cfb751e03d8cf615a4945', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether']
+
+Working on file 7 of 88 : 
+ /mnt/disk2/Videos/tes/Lost.S05E04.HDTV.XviD-XOR.avi
+ hash : 0b1767fc0f53a5f2e7dffc4725272a55
+[u'367358121', u'0b1767fc0f53a5f2e7dffc4725272a55', u'RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/Lost.S05E04.HDTV.XviD-XOR.avi']
+
+Working on file 8 of 88 : 
+ /mnt/disk2/Videos/tes/What Darwin Didn't Know (BBC 2009).avi
+ hash : 5c53d900d171c79db830639bc7f56ee9
+[u'3422283689', u'5c53d900d171c79db830639bc7f56ee9', u'RIFF (little-endian) data, AVI, 672 x 374, 25.00 fps, video: H.264 X.264 or H.264, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)', u'wiki_data', u"/mnt/disk2/Videos/tes/What Darwin Didn't Know (BBC 2009).avi"]
+
+Working on file 9 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album
+ hash : 58dfd33e7a8392f4b83bd018d1cc7cd4
+[u'821120119', u'58dfd33e7a8392f4b83bd018d1cc7cd4', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album']
+
+Working on file 10 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)
+ hash : 3144df0a3d68f8dae3952806d8e25e0e
+[u'2204187910', u'3144df0a3d68f8dae3952806d8e25e0e', u'directory', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)']
+
+Working on file 11 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/3-You Lot.mp3
+ hash : f041822fa787756a69e355ccd9ef5b3b
+[u'1101944429', u'f041822fa787756a69e355ccd9ef5b3b', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/3-You Lot.mp3']
+
+Working on file 12 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/5-Lost.mp3
+ hash : cdc7e96274687b44ea75092a42dc111f
+[u'484957005', u'cdc7e96274687b44ea75092a42dc111f', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/5-Lost.mp3']
+
+Working on file 13 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/2-Acid Pants.mp3
+ hash : 36b2618503ad9e5eb49a6d58fbea2f58
+[u'3901445553', u'36b2618503ad9e5eb49a6d58fbea2f58', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/2-Acid Pants.mp3']
+
+Working on file 14 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/10-Tunnel Vision.mp3
+ hash : 4d9d705996d682a2774dac3156a41723
+[u'1407344769', u'4d9d705996d682a2774dac3156a41723', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/10-Tunnel Vision.mp3']
+
+Working on file 15 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/11-One Perfect Sunrise.mp3
+ hash : 196d739a3806fec867ebea67ae1397e5
+[u'115965764', u'196d739a3806fec867ebea67ae1397e5', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/11-One Perfect Sunrise.mp3']
+
+Working on file 16 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/9-What Happens Next.mp3
+ hash : 419e2cca8f14dbe04dd6edd62ae86464
+[u'3085667077', u'419e2cca8f14dbe04dd6edd62ae86464', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/9-What Happens Next.mp3']
+
+Working on file 17 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/8-Easy Serv.mp3
+ hash : 0097852d89353abebe71f6270984f933
+[u'1136005445', u'0097852d89353abebe71f6270984f933', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/8-Easy Serv.mp3']
+
+Working on file 18 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/12-Technologicque Park.mp3
+ hash : a9a72dc912d0426aa2cdc1f43447d41b
+[u'3284215794', u'a9a72dc912d0426aa2cdc1f43447d41b', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/12-Technologicque Park.mp3']
+
+Working on file 19 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/Orbital.jpg
+ hash : f7bb047fa3ac554cf307c958e3b6e468
+[u'1238956804', u'f7bb047fa3ac554cf307c958e3b6e468', u'JPEG image data, JFIF standard 1.01', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/Orbital.jpg']
+
+Working on file 20 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/4-Pants.mp3
+ hash : 087922ce5775b20e37c885ceafe5df6c
+[u'2003348094', u'087922ce5775b20e37c885ceafe5df6c', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/4-Pants.mp3']
+
+Working on file 21 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/14-One Perfect Sunrise (Edit).mp3
+ hash : 900c108832796747ef6988ae43888f2a
+[u'1295768883', u'900c108832796747ef6988ae43888f2a', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/14-One Perfect Sunrise (Edit).mp3']
+
+Working on file 22 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/13-Initiation (Orbital Remix) (Radio Edit).mp3
+ hash : 40489c59e446c8c802e4e1ac94a79ecc
+[u'1048242147', u'40489c59e446c8c802e4e1ac94a79ecc', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/13-Initiation (Orbital Remix) (Radio Edit).mp3']
+
+Working on file 23 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/1-Transient.mp3
+ hash : b9d077ed4cbb3db5f4134b47e362c9bb
+[u'2639495363', u'b9d077ed4cbb3db5f4134b47e362c9bb', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/1-Transient.mp3']
+
+Working on file 24 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/7-Bath Time.mp3
+ hash : a3bbc334beb21f5af20b8c98d90aea0d
+[u'2302166376', u'a3bbc334beb21f5af20b8c98d90aea0d', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/7-Bath Time.mp3']
+
+Working on file 25 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/6-Initiation.mp3
+ hash : ff7f5509e028a5eee15a10ed82db9284
+[u'1296691104', u'ff7f5509e028a5eee15a10ed82db9284', u'Audio file with ID3 version 2.3.0, contains: ', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Blue Album (2004)/6-Initiation.mp3']
+
+Working on file 26 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/09 - Halcyon and On and On.mp3
+ hash : 717eeab3a5d9fde6b1de1854325e6f04
+[u'760899533', u'717eeab3a5d9fde6b1de1854325e6f04', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/09 - Halcyon and On and On.mp3']
+
+Working on file 27 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/03 - Lush 3-1.mp3
+ hash : 987d2244a64a84d0130c0c00dabfcf4f
+[u'2746668982', u'987d2244a64a84d0130c0c00dabfcf4f', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/03 - Lush 3-1.mp3']
+
+Working on file 28 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/05 - Impact (The Earth is Burning).mp3
+ hash : 4ce6be63248a0984a904f35d47797e14
+[u'3506530377', u'4ce6be63248a0984a904f35d47797e14', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/05 - Impact (The Earth is Burning).mp3']
+
+Working on file 29 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/04 - Lush 3-2.mp3
+ hash : 919c1ee9039948e7f92ee32efd793dd9
+[u'2465111571', u'919c1ee9039948e7f92ee32efd793dd9', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/04 - Lush 3-2.mp3']
+
+Working on file 30 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/07 - Walk Now.mp3
+ hash : 2dd1a659d37f244f6bd91998a9abca9c
+[u'3326156546', u'2dd1a659d37f244f6bd91998a9abca9c', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/07 - Walk Now.mp3']
+
+Working on file 31 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/06 - Remind.mp3
+ hash : b1a4c60c190bc8558d9a4d003e8af010
+[u'2136789298', u'b1a4c60c190bc8558d9a4d003e8af010', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/06 - Remind.mp3']
+
+Working on file 32 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/01 - Time Becomes.mp3
+ hash : 0f83c3f99e4fff123522ae05c51370b0
+[u'2896578245', u'0f83c3f99e4fff123522ae05c51370b0', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/01 - Time Becomes.mp3']
+
+Working on file 33 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/Orbital.m3u
+ hash : 295aa14fb5ebb497736e2a93547b6b44
+[u'427261521', u'295aa14fb5ebb497736e2a93547b6b44', u'M3U playlist text', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/Orbital.m3u']
+
+Working on file 34 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/08 - Monday.mp3
+ hash : 464104767c9cbf7ef313105dc47d5bb9
+[u'4115894387', u'464104767c9cbf7ef313105dc47d5bb9', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/08 - Monday.mp3']
+
+Working on file 35 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/02 - Planet of the Shapes.mp3
+ hash : 78fe4e4d0699b538eb18a6ff712ca174
+[u'1132772967', u'78fe4e4d0699b538eb18a6ff712ca174', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/02 - Planet of the Shapes.mp3']
+
+Working on file 36 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/10 - Input Out.mp3
+ hash : 0d621aa1faccd64695b0decfc872ebac
+[u'3632367587', u'0d621aa1faccd64695b0decfc872ebac', u'MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Orbital 2 The Brown Album/10 - Input Out.mp3']
+
+Working on file 37 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/05 - Tootled.mp3
+ hash : b94fbc99c99eb141a71bc35306395b2b
+[u'1896698201', u'b94fbc99c99eb141a71bc35306395b2b', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/05 - Tootled.mp3']
+
+Working on file 38 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/04 - Pay Per View.mp3
+ hash : 361e5f257081587b54bf4c33aa37f632
+[u'2740482949', u'361e5f257081587b54bf4c33aa37f632', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/04 - Pay Per View.mp3']
+
+Working on file 39 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/08 - Shadows.mp3
+ hash : 1f2232e3f33be0e94d8be5217375751d
+[u'2140162293', u'1f2232e3f33be0e94d8be5217375751d', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/08 - Shadows.mp3']
+
+Working on file 40 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/06 - Last Thing.mp3
+ hash : 62fe161422d45f99d73256bbd5c1dc5d
+[u'2459789774', u'62fe161422d45f99d73256bbd5c1dc5d', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/06 - Last Thing.mp3']
+
+Working on file 41 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/09 - Waving Not Drowning.mp3
+ hash : 8264f76e7d1ecb132fa15733480dac9a
+[u'1626318406', u'8264f76e7d1ecb132fa15733480dac9a', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/09 - Waving Not Drowning.mp3']
+
+Working on file 42 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/11 - Meltdown.mp3
+ hash : 31af7a946a7ec591183c4e8d354984d2
+[u'3293249158', u'31af7a946a7ec591183c4e8d354984d2', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/11 - Meltdown.mp3']
+
+Working on file 43 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/01 - Tension.mp3
+ hash : cafa3f68cdfdc1d5859d8ade14bbcb80
+[u'2766540287', u'cafa3f68cdfdc1d5859d8ade14bbcb80', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/01 - Tension.mp3']
+
+Working on file 44 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/07 - Doctor.mp3
+ hash : e114d76e6a2a2ce1e6827c6134440ed9
+[u'3833087451', u'e114d76e6a2a2ce1e6827c6134440ed9', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/07 - Doctor.mp3']
+
+Working on file 45 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/10 - Illuminate.mp3
+ hash : cce4d3c491960e5d70470af078b43d0f
+[u'3493455110', u'cce4d3c491960e5d70470af078b43d0f', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/10 - Illuminate.mp3']
+
+Working on file 46 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/02 - Funny Break [One Is Enough].mp3
+ hash : 82c947993e563472cd419f9565406167
+[u'54368517', u'82c947993e563472cd419f9565406167', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/02 - Funny Break [One Is Enough].mp3']
+
+Working on file 47 of 88 : 
+ /mnt/disk2/Videos/tes/Orbital - Altogether/03 - Oi!.mp3
+ hash : 9cf9c4dbb963fabd3d3152e66797cef4
+[u'1211869138', u'9cf9c4dbb963fabd3d3152e66797cef4', u'MPEG ADTS, layer III, v1, 256 kbps, 48 kHz, Stereo', u'wiki_data', u'/mnt/disk2/Videos/tes/Orbital - Altogether/03 - Oi!.mp3']
+
+Working on file 48 of 88 : 
+ /mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo/alien.raiders-aXXo.nfo
+ hash : c0e849495264d38fee8a2de58da747e1
+[u'2757074586', u'c0e849495264d38fee8a2de58da747e1', u'ISO-8859 English text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo/alien.raiders-aXXo.nfo']
+
+Working on file 49 of 88 : 
+ /mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo/Demonoid.com.txt
+ hash : 01eec1f9017d7ccfed5c8efa8161cffa
+[u'1022197685', u'01eec1f9017d7ccfed5c8efa8161cffa', u'ASCII text, with no line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo/Demonoid.com.txt']
+
+Working on file 50 of 88 : 
+ /mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo/Alien.Raiders[2008]DvDrip-aXXo.avi
+ hash : c9789bac5af4748d5f9f0287874433df
+[u'3775206515', u'c9789bac5af4748d5f9f0287874433df', u'RIFF (little-endian) data, AVI, 724 x 302, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/Alien.Raiders[2008]DvDrip-aXXo/Alien.Raiders[2008]DvDrip-aXXo.avi']
+
+Working on file 51 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/tracked_by_h33t_com.txt
+ hash : ba47d9ced0e0b717485b447c49dc9925
+[u'328008842', u'ba47d9ced0e0b717485b447c49dc9925', u'ASCII text, with no line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/tracked_by_h33t_com.txt']
+
+Working on file 52 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/10. The Happening.mp3
+ hash : d94d75578c9aa2fc25fc0b43ab1a3e1c
+[u'566148948', u'd94d75578c9aa2fc25fc0b43ab1a3e1c', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/10. The Happening.mp3']
+
+Working on file 53 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/01. Cecilia Ann.mp3
+ hash : 24c1a0149f05b00057314253f13239b6
+[u'3560445511', u'24c1a0149f05b00057314253f13239b6', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/01. Cecilia Ann.mp3']
+
+Working on file 54 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/14. Havalina.mp3
+ hash : b9ccc26fe5733e3dbb677d1bc98ab81d
+[u'2880717372', u'b9ccc26fe5733e3dbb677d1bc98ab81d', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/14. Havalina.mp3']
+
+Working on file 55 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/back.jpg
+ hash : 25af9f92cc3ee20804f12464afa3a6f4
+[u'52143491', u'25af9f92cc3ee20804f12464afa3a6f4', u'JPEG image data, JFIF standard 1.01', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/back.jpg']
+
+Working on file 56 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/03. Velouria.mp3
+ hash : 53da6de674c0cdac9781403e974e6934
+[u'3129363282', u'53da6de674c0cdac9781403e974e6934', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/03. Velouria.mp3']
+
+Working on file 57 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/04. Allison.mp3
+ hash : 9e02dceabaa10dc52d067c2ee950d4ad
+[u'3121591004', u'9e02dceabaa10dc52d067c2ee950d4ad', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/04. Allison.mp3']
+
+Working on file 58 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/09. Down To The Well.mp3
+ hash : eb26fcaf69501e917fef06c148815654
+[u'909301958', u'eb26fcaf69501e917fef06c148815654', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/09. Down To The Well.mp3']
+
+Working on file 59 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/02. Rock Music.mp3
+ hash : 8798f7b7517e0575c8688bdb3e69e5f9
+[u'3342506731', u'8798f7b7517e0575c8688bdb3e69e5f9', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/02. Rock Music.mp3']
+
+Working on file 60 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/13. Stormy Weather.mp3
+ hash : dc20e1bbe75faab7026a2bcdae8936da
+[u'2106365364', u'dc20e1bbe75faab7026a2bcdae8936da', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/13. Stormy Weather.mp3']
+
+Working on file 61 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/05. Is She Weird.mp3
+ hash : d0320786f48668617b754d8e2961a5aa
+[u'465620549', u'd0320786f48668617b754d8e2961a5aa', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/05. Is She Weird.mp3']
+
+Working on file 62 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/08. Dig For Fire.mp3
+ hash : f94585091031c9cd8ed731f35340176f
+[u'279841313', u'f94585091031c9cd8ed731f35340176f', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/08. Dig For Fire.mp3']
+
+Working on file 63 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/11. Blown Away.mp3
+ hash : 5dbc6e95966097bc081238217a12f45b
+[u'3193913153', u'5dbc6e95966097bc081238217a12f45b', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/11. Blown Away.mp3']
+
+Working on file 64 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/12. Hang Wire.mp3
+ hash : 3d16e95984e0047c1839861a3318db54
+[u'862148587', u'3d16e95984e0047c1839861a3318db54', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/12. Hang Wire.mp3']
+
+Working on file 65 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/07. All Over The World.mp3
+ hash : 456ba23e54a6f7e5234283fd200ce7f2
+[u'2978654056', u'456ba23e54a6f7e5234283fd200ce7f2', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/07. All Over The World.mp3']
+
+Working on file 66 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/front.jpg
+ hash : 15fb9f323cf35d970efbc5fbe17bc5e9
+[u'1285783392', u'15fb9f323cf35d970efbc5fbe17bc5e9', u'JPEG image data, JFIF standard 1.01', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/front.jpg']
+
+Working on file 67 of 88 : 
+ /mnt/disk2/Videos/tes/03. Bossanova  (1990)/06. Ana.mp3
+ hash : 783292066c3c7c6d460e5fea0394fa7c
+[u'1706054144', u'783292066c3c7c6d460e5fea0394fa7c', u'Audio file with ID3 version 2.3.0, contains: MPEG ADTS, layer III, v1, 128 kbps, 44.1 kHz, JntStereo', u'wiki_data', u'/mnt/disk2/Videos/tes/03. Bossanova  (1990)/06. Ana.mp3']
+
+Working on file 68 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2006 A War On Science (Intelligent Design).avi
+ hash : 05c985227526b0a9fe2c66fd538e1ac0
+[u'2443917216', u'05c985227526b0a9fe2c66fd538e1ac0', u'RIFF (little-endian) data, AVI, 640 x 416, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2006 A War On Science (Intelligent Design).avi']
+
+Working on file 69 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2007 Mad But Glad.avi.ini
+ hash : 37c6135410e5a30d5f19088812cf0c62
+[u'2420470054', u'37c6135410e5a30d5f19088812cf0c62', u'ASCII text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2007 Mad But Glad.avi.ini']
+
+Working on file 70 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2007 Mad But Glad.avi
+ hash : 138172f49d71cf517523ff86857a6d11
+[u'198021034', u'138172f49d71cf517523ff86857a6d11', u'RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2007 Mad But Glad.avi']
+
+Working on file 71 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2007 How Does Your Memory Work.avi
+ hash : 6baab25f1cf420314e0609a39de81bb5
+[u'3804949421', u'6baab25f1cf420314e0609a39de81bb5', u'RIFF (little-endian) data, AVI, 640 x 352, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2007 How Does Your Memory Work.avi']
+
+Working on file 72 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2006 Human v2.0.avi.ini
+ hash : f31ff0b70b1ffdfd783b65020ed41006
+[u'1859493993', u'f31ff0b70b1ffdfd783b65020ed41006', u'ASCII text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2006 Human v2.0.avi.ini']
+
+Working on file 73 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2005 Einstein's Unfinished Symphony.avi
+ hash : a42c91cd0d824c48643dc61a8b0946dc
+[u'226722294', u'a42c91cd0d824c48643dc61a8b0946dc', u'RIFF (little-endian) data, AVI, 480 x 272, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u"/mnt/disk2/Videos/tes/BBC Horizon/2005 Einstein's Unfinished Symphony.avi"]
+
+Working on file 74 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2008 How Much Is Your Dead Body Worth.avi
+ hash : 19461551ffed8601a32c09b3cf77fc14
+[u'1382963440', u'19461551ffed8601a32c09b3cf77fc14', u'RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2008 How Much Is Your Dead Body Worth.avi']
+
+Working on file 75 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2007 How Does Your Memory Work.avi.ini
+ hash : 443442a2a8350d28276733d6790c3da3
+[u'725358511', u'443442a2a8350d28276733d6790c3da3', u'ASCII text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2007 How Does Your Memory Work.avi.ini']
+
+Working on file 76 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2008 What on Earth is Wrong with Gravity.avi
+ hash : b7c54f9d92c174d59fcee8289906540e
+[u'835064254', u'b7c54f9d92c174d59fcee8289906540e', u'RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2008 What on Earth is Wrong with Gravity.avi']
+
+Working on file 77 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2005 Einstein's Unfinished Symphony.avi.ini
+ hash : adccd68c40c78ac4564f877bc7517cc0
+[u'1332493554', u'adccd68c40c78ac4564f877bc7517cc0', u'ASCII text, with CRLF line terminators', u'wiki_data', u"/mnt/disk2/Videos/tes/BBC Horizon/2005 Einstein's Unfinished Symphony.avi.ini"]
+
+Working on file 78 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/1987 The Blind Watchmaker (Richard Dawkins).avi
+ hash : 29fc6760d5071ed25942c25fdca5cb42
+[u'126691984', u'29fc6760d5071ed25942c25fdca5cb42', u'RIFF (little-endian) data, AVI, 384 x 288, video: DivX 4, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/1987 The Blind Watchmaker (Richard Dawkins).avi']
+
+Working on file 79 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2006 The Six Billion Dollar Experiment.avi
+ hash : 4110e212e237bf2e7a1f96a3bbf7badf
+[u'2400144883', u'4110e212e237bf2e7a1f96a3bbf7badf', u'RIFF (little-endian) data, AVI, 608 x 352, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2006 The Six Billion Dollar Experiment.avi']
+
+Working on file 80 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2006 Human v2.0.avi
+ hash : 681f5a86a4508fe38c0e02e3ba2dc721
+[u'4155643554', u'681f5a86a4508fe38c0e02e3ba2dc721', u'RIFF (little-endian) data, AVI, 672 x 368, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2006 Human v2.0.avi']
+
+Working on file 81 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2006 The Six Billion Dollar Experiment.avi.ini
+ hash : b61c91ab257c93c9a253bb0c13924312
+[u'2562021788', u'b61c91ab257c93c9a253bb0c13924312', u'ASCII English text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2006 The Six Billion Dollar Experiment.avi.ini']
+
+Working on file 82 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/Torrent downloaded from httpwww.Demonoid.com.txt
+ hash : 17327f5eac9808ee9f46e3866eec96c1
+[u'2763624109', u'17327f5eac9808ee9f46e3866eec96c1', u'empty', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/Torrent downloaded from httpwww.Demonoid.com.txt']
+
+Working on file 83 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/1987 The Blind Watchmaker (Richard Dawkins).avi.ini
+ hash : d67db76e4141d8c3ea3fb63fe3689941
+[u'3924557766', u'd67db76e4141d8c3ea3fb63fe3689941', u'ASCII English text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/1987 The Blind Watchmaker (Richard Dawkins).avi.ini']
+
+Working on file 84 of 88 : 
+ /mnt/disk2/Videos/tes/BBC Horizon/2005 The Hawking Paradox.avi
+ hash : 068c9a80505b852660afe21a0fc6233f
+[u'546995798', u'068c9a80505b852660afe21a0fc6233f', u'RIFF (little-endian) data, AVI, 720 x 400, 25.00 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/BBC Horizon/2005 The Hawking Paradox.avi']
+
+Working on file 85 of 88 : 
+ /mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo/never.back.down.nfo
+ hash : 824e9a48e30a25258b2e445244739878
+[u'3900120625', u'824e9a48e30a25258b2e445244739878', u'ISO-8859 text, with CRLF line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo/never.back.down.nfo']
+
+Working on file 86 of 88 : 
+ /mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo/Demonoid.com.txt
+ hash : f0a4a862d08bed6124a42e07c711601a
+[u'3692510678', u'f0a4a862d08bed6124a42e07c711601a', u'ASCII text, with no line terminators', u'wiki_data', u'/mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo/Demonoid.com.txt']
+
+Working on file 87 of 88 : 
+ /mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo/Never.Back.Down[2008]DvDrip-aXXo.avi
+ hash : 570f5b87c97394eddd0e7d9c700aa0fa
+[u'136100358', u'570f5b87c97394eddd0e7d9c700aa0fa', u'RIFF (little-endian) data, AVI, 664 x 274, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)', u'wiki_data', u'/mnt/disk2/Videos/tes/Never.Back.Down[2008]DvDrip-aXXo/Never.Back.Down[2008]DvDrip-aXXo.avi']
+(0, 88)

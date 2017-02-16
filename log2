@@ -1,0 +1,442 @@
+SHOWLIST INIT
+posix.stat_result(st_mode=16877, st_ino=18808854, st_dev=2049L, st_nlink=145, st_uid=1061, st_gid=1000, st_size=20480, st_atime=1246918554, st_mtime=1246913139, st_ctime=1246913139)
+1 1
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Lost.S05E11.HDTV.XviD-XOR.avi
+New_name :	 Lost
+Episode : 	 s05e11
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+11 2
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Lost.S05E13.HDTV.XviD-NoTV.avi
+New_name :	 Lost
+Episode : 	 s05e13
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+14 3
+
+
+Unknown : 	 /mnt/disk2/Videos/Futurama - The Lost Adventure (2008) DVDRip Occor.avi Futurama
+New_name : 	 Futurama
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 720 x 480, 29.97 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+24 4
+
+
+Unknown : 	 /mnt/disk2/Videos/Barack.Obama.Presidential.Victory.Speech.HDTV.XviD-XOXO.avi Barack obama presidential victory speech
+New_name : 	 Barack obama presidential victory speech
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 29.97 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+35 5
+
+
+Maybe serie : 	 /mnt/disk2/Videos/BBC.The.Atheism.Tapes.1of6.Colin.McGinn.XviD.AC3.MVGroup.org.avi
+New_name :	 the atheism tapes  colin mcginn   mvgroup org
+Episode : 	 1of6
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 368, 29.97 fps, video: XviD, audio: Dolby AC3 (stereo, 48000 Hz)
+40 6
+
+
+Unknown : 	 /mnt/disk2/Videos/Misery[1990]DvDrip[Eng]-Stealthmaster.avi Miser
+New_name : 	 Miser
+In_showlist : 	 False
+Year : 	 1990
+RIFF (little-endian) data, AVI, 640 x 336, 25.00 fps, video: DivX 5, audio: Dolby AC3 (stereo, 48000 Hz)
+45 7
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Lost.S05E15.HDTV.XviD-NoTV.avi
+New_name :	 Lost
+Episode : 	 s05e15
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+46 8
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.The.Machine.that.Made.Us.2008.WS.PDTV.XviD.MP3.MVGroup.org.avi the machine that made us
+New_name : 	 the machine that made us
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+57 9
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Lost.S05E12.HDTV.XviD-NoTV.avi
+New_name :	 Lost
+Episode : 	 s05e12
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+62 10
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Robot.Chicken.S04E01.READNFO.PDTV.XviD-aAF.avi
+New_name :	 Robot chicken     aaf
+Episode : 	 s04e01
+Year : 	 2008
+RIFF (little-endian) data, AVI, 512 x 384, 29.97 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+72 11
+
+
+Unknown : 	 /mnt/disk2/Videos/20090101_0040 Nederland 1 - Youp_van_t_Hek_Troost.avi 20090101_0040 nederland 1
+New_name : 	 20090101_0040 nederland 1
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 704 x 576, 25.00 fps, video: H.264 X.264 or H.264, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+88 12
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.The.Sky.at.Night.2009.01.Light.Fantastic.WS.PDTV.XviD.MP3.MVGroup.org.avi the sky at night 2009 01 light fantastic
+New_name : 	 the sky at night 2009 01 light fantastic
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+91 13
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Deadliest.Catch.S05E09.HDTV.XviD-aAF.avi
+New_name :	 Deadliest catch    aaf
+Episode : 	 s05e09
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 29.97 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+103 14
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Lost.S05E16-E17.The.Incident.HDTV.XviD-FQM.avi
+New_name :	 Lost e17 the incident   fqm
+Episode : 	 s05e16 
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+115 15
+
+
+Unknown : 	 /mnt/disk2/Videos/Lost44.avi Lost44
+New_name : 	 Lost44
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+118 16
+
+
+Maybe serie : 	 /mnt/disk2/Videos/My.Name.is.Earl.S04E14.HDTV.XviD-LOL.[VTV].avi
+New_name :	 My name is earl
+Episode : 	 s04e14
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+122 17
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.The.Sky.at.Night.2008.11.Big.Bangs.WS.PDTV.XviD.MP3.MVGroup.org.avi the sky at night  11 big bangs
+New_name : 	 the sky at night  11 big bangs
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 688 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+126 18
+
+
+Unknown : 	 /mnt/disk2/Videos/Psychoville.1x01.HDTV.XviD-FoV.avi Psychoville 1x01
+New_name : 	 Psychoville 1x01
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+132 19
+
+
+Unknown : 	 /mnt/disk2/Videos/Discovery.Channel.Egypts.Ten.Greatest.Discoveries.XviD.AC3.MVGroup.org.avi Discovery channel egypts ten greatest discoveries   mvgroup org
+New_name : 	 Discovery channel egypts ten greatest discoveries   mvgroup org
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 704 x 400, 29.97 fps, video: XviD, audio: Dolby AC3 (stereo, 48000 Hz)
+139 20
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.Horizon.2009.Cannabis.The.Evil.Weed.HDTV.XviD.MP3.MVGroup.org.avi horizon 2009 cannabis the evil weed
+New_name : 	 horizon 2009 cannabis the evil weed
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 688 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+141 21
+
+
+Unknown : 	 /mnt/disk2/Videos/Lost.S05.A.Journey.In.Time.Recap.Special.HDTV.XviD-2HD.avi Lost s05 a journey in time recap special
+New_name : 	 Lost s05 a journey in time recap special
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+142 22
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Demons.UK.S01E01.WS.PDTV.XviD-ORGANiC.avi
+New_name :	 Demons uk     organic
+Episode : 	 s01e01
+Year : 	 2008
+RIFF (little-endian) data, AVI, 640 x 352, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+147 23
+
+
+Unknown : 	 /mnt/disk2/Videos/Sex and the City (2008) TS Occor.avi Sex and the city
+New_name : 	 Sex and the city
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+149 24
+
+
+Unknown : 	 /mnt/disk2/Videos/Harry Potter and the Goblet of Fire.avi Harry potter and the goblet of fire
+New_name : 	 Harry potter and the goblet of fire
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 464 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+154 25
+
+
+Maybe serie : 	 /mnt/disk2/Videos/BBC.Dangerous.Knowledge.1of2.2007.DVBC.XviD.MP3.www.mvgroup.org.avi
+New_name :	 dangerous knowledge
+Episode : 	 1of2
+Year : 	 2007
+RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+157 26
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.Horizon.2008.How.to.Make.Better.Decisions.DVBC.XviD.MP3.MVGroup.org.avi horizon  how to make better decisions
+New_name : 	 horizon  how to make better decisions
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+160 27
+
+
+Unknown : 	 /mnt/disk2/Videos/OUTLANDER.2008.FRENCH.DVDRiP.XViD-OLi82(Smartorrent).avi Outlander  french
+New_name : 	 Outlander  french
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 640 x 256, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)
+162 28
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.Horizon.2008.The.Presidents.Guide.to.Science.HDTV.XviD.MP3.MVGroup.org.avi horizon  the presidents guide to science
+New_name : 	 horizon  the presidents guide to science
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 368, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+168 29
+
+
+Unknown : 	 /mnt/disk2/Videos/BBC.The.Sky.at.Night.2009.02.The.Merry.Dancers.WS.PDTV.XviD.MP3.MVGroup.org.avi the sky at night 2009 02 the merry dancers
+New_name : 	 the sky at night 2009 02 the merry dancers
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 688 x 384, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+173 30
+
+
+Maybe serie : 	 /mnt/disk2/Videos/Lost.S05E09.HDTV.XviD-NoTV.avi
+New_name :	 Lost
+Episode : 	 s05e09
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+181 31
+
+
+Unknown : 	 /mnt/disk2/Videos/Deception[2008]DvDrip-aXXo/Deception[2008]DvDrip-aXXo.avi Deception
+New_name : 	 Deception
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 272, 25.00 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+182 32
+
+
+Unknown : 	 /mnt/disk2/Videos/Insanitarium.DVDRip.XviD-BeStDivX/bestdivx-insanitarium.avi Best-insanitarium
+New_name : 	 Best-insanitarium
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 544 x 288, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+186 33
+
+
+Unknown : 	 /mnt/disk2/Videos/Insanitarium.DVDRip.XviD-BeStDivX/Sample/bestdivx-insanitarium-sample.avi Best-insanitarium-sample
+New_name : 	 Best-insanitarium-sample
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 544 x 288, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+187 34
+
+
+Unknown : 	 /mnt/disk2/Videos/Twilight[2008]DvDrip-aXXo/Twilight[2008]DvDrip-aXXo.avi Twilight
+New_name : 	 Twilight
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 656 x 264, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+192 35
+
+
+Unknown : 	 /mnt/disk2/Videos/seven pounds.[2008.Eng].DVDScr.DivX-LTT/Seven Pounds.[2008.Eng].DVDScr.DivX-LTT.avi Seven pounds
+New_name : 	 Seven pounds
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 688 x 288, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+194 36
+
+
+Unknown : 	 /mnt/disk2/Videos/seven pounds.[2008.Eng].DVDScr.DivX-LTT/Sample.avi Sample
+New_name : 	 Sample
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 688 x 288, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+197 37
+
+
+Unknown : 	 /mnt/disk2/Videos/Religulous.DVDScr.XViD-BaLD/Religulous.DVDScr.XViD-BaLD.avi Religulous dvdscr
+New_name : 	 Religulous dvdscr
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 624 x 352, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+201 38
+
+
+Unknown : 	 /mnt/disk2/Videos/Futurama.Benders.Game.2008.DVDSCR.XviD-OPTiC/opt-futuramabg.avi Opt-futuramabg
+New_name : 	 Opt-futuramabg
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 544 x 304, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+202 39
+
+
+Unknown : 	 /mnt/disk2/Videos/Futurama.Benders.Game.2008.DVDSCR.XviD-OPTiC/Sample/opt-futuramabg.sample.avi Opt-futuramabg sample
+New_name : 	 Opt-futuramabg sample
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 544 x 304, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+204 40
+
+
+Unknown : 	 /mnt/disk2/Videos/Shutter.DVDRip.2008.DvDRip-FxM/Shutter.DVDRip.2008.DvDRip-FxM.avi Shutter   dv
+New_name : 	 Shutter   dv
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 640 x 346, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)
+206 41
+
+
+Unknown : 	 /mnt/disk2/Videos/Shutter.DVDRip.2008.DvDRip-FxM/21[2008]DvDrip-aXXo/21[2008]DvDrip-aXXo.avi 21
+New_name : 	 21
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 684 x 276, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+210 42
+
+
+Unknown : 	 /mnt/disk2/Videos/XIII-The.Conspiracy[2008]DvDrip-aXXo/XIII-The.Conspiracy[2008][Part.1]DvDrip-aXXo .avi Xiii-the conspirac
+New_name : 	 Xiii-the conspirac
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 632 x 344, 25.00 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+212 43
+
+
+Unknown : 	 /mnt/disk2/Videos/XIII-The.Conspiracy[2008]DvDrip-aXXo/XIII-The.Conspiracy[2008][Part.2]DvDrip-aXXo .avi Xiii-the conspirac
+New_name : 	 Xiii-the conspirac
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 632 x 344, 25.00 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+231 44
+
+
+Unknown : 	 /mnt/disk2/Videos/Underworld.Rise.of.the.Lycans.SUBBED.CAM.XviD-CiNEDUB(2)/g1cndb-underworld-cam.avi G1cnd
+New_name : 	 G1cnd
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 608 x 304, 29.97 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+233 45
+
+
+Unknown : 	 /mnt/disk2/Videos/Underworld.Rise.of.the.Lycans.SUBBED.CAM.XviD-CiNEDUB(2)/Sample/sample.avi Sample
+New_name : 	 Sample
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 608 x 304, 29.97 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+237 46
+
+
+Unknown : 	 /mnt/disk2/Videos/Quantum of Solace 2008 TELESYNC XviD-KingBen (Kingdom-Release)/Quantum of Solace 2008 TELESYNC XviD-KingBen.avi Quantum of solace  telesync
+New_name : 	 Quantum of solace  telesync
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 720 x 304, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+238 47
+
+
+Unknown : 	 /mnt/disk2/Videos/Quantum of Solace 2008 TELESYNC XviD-KingBen (Kingdom-Release)/Sample/sample.avi Sample
+New_name : 	 Sample
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 720 x 304, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+239 48
+
+
+Unknown : 	 /mnt/disk2/Videos/Starship.Troopers.3.2008.DvDRip-FxM/Starship.Troopers.3.2008.DvDRip-FxM.avi Starship troopers 3
+New_name : 	 Starship troopers 3
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 672 x 362, 23.98 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)
+241 49
+
+
+Unknown : 	 /mnt/disk2/Videos/Space.Chimps[2008]DvDrip-aXXo/Space.Chimps[2008]DvDrip-aXXo.avi Space chimps
+New_name : 	 Space chimps
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 688 x 284, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+244 50
+
+
+Unknown : 	 /mnt/disk2/Videos/Eagle.Eye[2008]DvDrip-aXXo/Eagle.Eye[2008]DvDrip-aXXo.avi Eagle eye
+New_name : 	 Eagle eye
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 664 x 274, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+254 51
+
+
+Unknown : 	 /mnt/disk2/Videos/Prodigy-Invaders Must Die[DE][2009][2CD+2 SkidVid_XviD+Cov]/The Prodigy - Invaders Must Die [2009][SkidVid]_XviD.avi The prodigy
+New_name : 	 The prodigy
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 1000 x 542, 30.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)
+270 52
+
+
+Unknown : 	 /mnt/disk2/Videos/Prodigy-Invaders Must Die[DE][2009][2CD+2 SkidVid_XviD+Cov]/The Prodigy - Omen [2009]_XviD.avi The prodigy
+New_name : 	 The prodigy
+In_showlist : 	 False
+Year : 	 2008
+RIFF (little-endian) data, AVI, 1000 x 432, 25.00 fps, video: XviD, audio: MPEG-1 Layer 3 (stereo, 44100 Hz)
+271 53
+
+
+Unknown : 	 /mnt/disk2/Videos/Music.Within[2007]DvDrip[Eng]-aXXo/Music.Within[2007]DvDrip[Eng]-aXXo.avi Music within
+New_name : 	 Music within
+In_showlist : 	 False
+Year : 	 2007
+RIFF (little-endian) data, AVI, 656 x 346, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+274 54
+
+
+Unknown : 	 /mnt/disk2/Videos/Harry.Potter.And.The.Order.Of.The.Phoenix[2007]DvDrip[Eng]-aXXo/Harry.Potter.And.The.Order.Of.The.Phoenix[2007]DvDrip[Eng]-aXXo.avi Harry potter and the order of the phoenix
+New_name : 	 Harry potter and the order of the phoenix
+In_showlist : 	 False
+Year : 	 2007
+RIFF (little-endian) data, AVI, 632 x 258, 23.98 fps, video: DivX 5, audio: MPEG-1 Layer 3 (stereo, 48000 Hz)
+275 55
+
+
+Unknown : 	 /mnt/disk2/Videos/Expelled.No.Intelligence.Allowed.DVDRip.XviD-NeDiVx/nedivx-enia.avi Ne-enia
+New_name : 	 Ne-enia
+In_showlist : 	 False
+Year : 	 2008
+RIFF (l

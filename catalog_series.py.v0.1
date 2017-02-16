@@ -1,0 +1,209 @@
+#!/usr/bin/env python2.6
+import re, string, os, ast, urllib
+import tvdb.tvdb_api as tvdb_api
+from pprint import pprint
+from xml.etree import ElementTree as etree
+
+def post_url(url,data):
+    headers = {"Content-type" : "text/xml; charset=utf-8", "Accept": "text/plain"}
+    conn = http.client.HTTPConnection("localhost:8080")
+    conn.request("POST","/solr/update/", bytes(data.encode('utf-8')), headers)
+    response = conn.getresponse()
+    data = response.read()
+    conn.close()
+    return()
+
+def get_serie_info(name):
+    try:
+        file=open("/tmp/"+name.replace(" ", "_")+".xml", "r")
+        data=file.read()
+        file.close()
+        data=etree.fromstring(data)
+    except:
+        try:
+            data=urllib.urlopen("http://www.thetvdb.com/api/GetSeries.php?seriesname="+urllib.quote(name)).read()
+            data=("\n".join(data.split("\n")[1:])).lower()
+            file=open("/tmp/"+name.replace(" ", "_")+".xml", "w")
+            file.write(data)
+            file.close()
+            data=etree.fromstring(data)
+        except:
+            data=""
+    odata=[]
+    name=True
+    for item in data.getiterator():
+        if len(item.text) >1:
+            tagname=item.tag
+            et = etree.Element("field",  name="serie_"+tagname)
+            if tagname == "seriesname" and name and len(item.text) > 1:
+                et.text = item.text
+                name=False
+                odata.append(etree.tostring(et))
+                print(item.text)
+            else:
+                if not tagname == "seriesname":
+                    et.text = item.text
+                    odata.append(etree.tostring(et))
+    return(odata)
+
+media = {}
+medialist="mpg","avi"
+wierd = ("/" , ".", "-")
+regexlist = ('(\d+)e(\d+)', '(\d+)x(\d+)' , '(\d+)\s(\d+)')
+tvdb=tvdb_api.Tvdb(banners=False, debug = False, interactive = False, cache ="/tmp/")
+tvdb_actors=tvdb_api.Tvdb(actors = True)
+i=j=0
+
+config={}
+config['seriename_parse'] = [
+    re.compile('''^.+?Season\s([0-9]{1,2}).+?Episode\s([0-9]{1,2})\]?[^\\/]*$'''),
+    re.compile('''^.+?[ \._\-]\[[Ss]([0-9]{1,2})\]_\[[Ee]([0-9]{1.2})\]?[^\\/]*$'''),
+    re.compile('''^.+?[ \._\-]\[?([0-9]{1,2})[xX]([0-9]{1,2})[^\\/]*$'''),
+    re.compile('''^.+?([0-9]{1,2})[xX]([0-9]{1,2}).+$'''),
+    re.compile('''^.+?[ \._\-][Ss]([0-9]{1,2})[\.\- ]?[Ee]([0-9]{1,2})[^\\/]*$'''),
+    re.compile('''^.+?[ \._\-]([0-9]{1,2})([0-9]{1,2})[\._ -][^\\/]*$'''),
+    re.compile('''^.+?[ \._\-]([0-9]{1,2})([0-9]{1,2})[\._ -][^\\/]*$'''),
+]
+
+config['magic_parse'] = [
+    re.compile('''^.+?(AVI).*$'''),
+    re.compile('''^.+?(Matroska).*$'''),
+    re.compile('''^.+?(ISO Media, MPEG v4 system, version).*$'''),
+]
+
+
+try:
+    f=open("all", "r")
+except:
+    data=os.popen("find . -exec file '{}' ';' > all").read()
+    f=open("all", "r")
+record=[]
+record.append("<add>\n")
+
+for line in f:
+    line=line.strip()
+    magic=":".join(line.split(":")[1:])
+    for r in config['magic_parse']:
+        match = r.match(magic)
+        if match:
+            record.append("<doc>\n")
+
+            #print(magic, line.split(":")[0])
+            et = etree.Element("field",  name="filename") 
+            et.text = line.split(":")[0]
+            record.append(etree.tostring(et)+"\n")
+
+            et = etree.Element("field",  name="magic") 
+            et.text = line.split(":")[1]
+            record.append(etree.tostring(et)+"\n")
+             
+            file_is_serie=False
+
+            for r in config['seriename_parse']:
+                match = r.match(line.split(":")[0])
+                if match:
+                    seasno, epno = match.groups()
+                    seep="%ix%i" %(int(seasno), int(epno))
+                    et = etree.Element("field",  name="seep")
+                    et.text=seep
+                    record.append(etree.tostring(et)+"\n")
+                    seriesname=line.split(":")[0].split("/")[1].replace("-", " ")
+                    print(epno, seasno, seriesname)
+                    try:
+                        episode=tvdb[seriesname][int(seasno)][int(epno)]
+
+                        try:
+                            actors=tvdb[seriesname]['actors']
+                            for actor in (actors.split("|")):
+                                if len(actor)>0:
+                                    et = etree.Element("field",  name="serie_actor")
+                                    et.text = actor
+                                    record.append(etree.tostring(et)+"\n")
+                        except:
+                            pass
+
+                        try:
+                            for item in episode.keys():
+                                if episode[item]:
+                                   et = etree.Element("field",  name="episode_"+item)
+                                   et.text=episode[item]
+                                   record.append(etree.tostring(et)+"\n")
+                                   #et = etree.Element("field",  name="item")
+                                   #et.text=episode[item]
+                                   #record.append(etree.tostring(item)+"\n")
+                        except:
+                            pass
+
+                        try:
+                            for item in get_serie_info(seriesname):
+                                record.append(item+"\n")
+                        except:
+                            pass
+                        
+                        try:
+                            et = etree.Element("field",  name="media_type")
+                            et.text = "serie"
+                            record.append(etree.tostring(et)+"\n")
+
+                            et = etree.Element("field", name="file_metadata")
+                            print(line.split(":")[0])
+                            if not line.find("'") > -1:
+                                data = ("mplayer  -identify  -frames 0 '"+line.split(":")[0]+"' 2>/dev/null |grep '^ID_'")
+                            else:
+                                data = ("mplayer  -identify  -frames 0 \""+line.split(":")[0]+"\" 2>/dev/null |grep '^ID_'")
+                            data = os.popen(data).read()
+                            et.text = data
+                            record.append(etree.tostring(et))
+                            break
+                        except:
+                            pass
+                    except:
+                        print("ERRR" + seriesname)
+                        pass
+
+                
+            record.append("</doc>\n")
+record.append("</add>\n")
+data=[]
+out=open("all.xml","w")
+for line in record:
+    out.write(line)
+    data.append(line)
+out.close()
+print("open all.xml")
+#http://pruts.nl:8983/                  
+
+''''
+for line in f:
+    for mediatype in medialist:
+        if (line.strip().endswith(mediatype)) and line.split("/")[1].startswith("ser"):
+            filepath, filename = os.path.split(line.lower().strip())
+            filename, ext = os.path.splitext(filename)
+
+            ext = ext.replace(".", "", 1)
+
+            for r in config['name_parse']:
+                match = r.match(filename)
+                if match:
+                    seriesname, seasno, epno = match.groups()
+
+                    #remove ._- characters from name (- removed only if next to end of line)
+                    seriesname = re.sub("[\._]|\-(?=$)", " ", seriesname).strip()
+
+                    seasno, epno = int(seasno), int(epno)
+
+                    #print "File:", filename
+                    print "Seriesname:", seriesname, "Seas:", seasno, "Ep:", epno
+                    print "*"*20
+
+
+
+
+for regex in regexlist:
+    episode=re.search(regex, name)
+    if episode:
+        season=str(episode.group(1)).replace('x', '').replace('s', '').strip()
+        season=string.atoi(season)
+        print season, episode
+        break
+'''
