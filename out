@@ -1,0 +1,549 @@
+Nr of paragraphs: 1
+Nr of whitespaces: 472
+Nr of alphanumeric characters: 2711
+Tokenized words: DE,KLASSENSTRIJD,.,In,ens,vorige,artikel,keurden,wij,voorstblling,van,zaken.af,waarbij,ac,ouae,politieke,indeeling,in,links,en....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: KLASSENSTRIJD,vorige,artikel,keurden,wij,waarbij,politieke,links,rechts,voren,geschoven,werkelijk,bestaande,onze,antithese-gedachte,weinig,waarde,politieke,leven,land....
+Nr of total tokens: 536
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 192
+Top ten nostop tokens:
+	politieke freq: 8
+	wij freq: 7
+	onze freq: 5
+	leven freq: 4
+	geschiedenis freq: 4
+	economische freq: 3
+	vernieuwing freq: 3
+	wel freq: 2
+	zeggen freq: 2
+	zelfs freq: 2
+
+Usefull to 'useless' tokens ratio: 35.82%
+Avg word length (based on nostop): 7.64
+Whitespace to text ratio: 14.42%
+Upcase-starting words ratio (based on nostop): 6.25%
+Noise to text ratio: 51.41%
+Nr of sentences: 24
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): -0.08, 0.48
+Clusters (nostop)tokens:
+{0: [u", maar evenmin dat wij van meening zouden zijn, aat ac politick niet aan bepaalae _ geestelijke normen gebonaen behoort te' zijn.",
+     u"Anderen in onze rijen ontleenen aat inzacht aan een niet-Christtlijke' levensovertuiging, by.",
+     u'Persoonlijk zien wij aat als een taak ons aoor aen Allerhoogste opgelegd.',
+     u'aan een uitsluitend-humanistische, Israelitische dan wel aan een andert philoso-phische of religieuze leer.'],
+ 1: [u'(Wordt vervolgd).',
+     u'-De arbeiders, daarentegen, verWeren zich en sluiten zich aan\xc2\xa3\xc2\xa3n.',
+     u'DE KLASSENSTRIJD.',
+     u'De geschiedenis, zoo zegt Marx, is aerhalve een geschiedenis van klassenstrija, want in de maatschappelijkt huishouding staan twee groepen, de arbeiaers en de kapitalisten, onverzoenlijk tegenover elkaar.',
+     u'De leer van de klassenstrijd zooals aie door Marx, Engels en anderen is opgestela en ontwikkeld komt in hoofdzakeh hierop neer: De mensch wordt in zijn goheele denken en hanaelbn beheerscht aoor ac economische omstanaigheden waarin hio is opgevoed en verkeert.',
+     u'De ondernemer, die zich moet zien staande te houden in een moordende concurrentie, mdet zijn arbeiaers aaartot uitbuiten.',
+     u'De spanning tusschen beide groepen neemt steeds toe en zal tenslotte tot een nieuwe orae leiaen, wanneer het proletariaat naar ac macht grijpt .en de prouuctie-miaaelen tot gemeenschappelijk eigendom maakt.',
+     u"Deze erkenning wil natuurlijk niet zeggen dat een Chri'stelijke geloofsovertuiging geen invloed zou hebben op de politieke den'kbeelaen (integendeel! )",
+     u"Het economisch gebeuren drijft ac geschiedenis.'",
+     u'In ens vorige artikel keurden wij voorstblling van zaken.af waarbij ac ouae politieke indeeling in links en rechts we.derom naar voren werd geschoven als een werkelijk nog bestaande.',
+     u'Meerdere malen spraken wij immers reeds als onze vaste overtuiging uit, dat onze activitert- (een politieke activiteitl) voortaurend en overal ten doel heeft de ontplooiing van de menschelijke persoonlijkheid.',
+     u'Naar onze meening heeft deze^zgn.',
+     u'Naast ac antithese is het voornamelijk.'],
+ 2: [u'- Zeer in het kort is daarmee de kern-inhoud Van het Marxisme geschetst.',
+     u"De economische omgeving is bepalend voor ac mensch en zijn iaeeen; aientengevolge is ac geschiedenis van de mehschbeid met'anders dan de ontwikkeling van het economische leven.",
+     u"Voor onze gemeenschappelijke politieke opvattingen is niet het belangrijkste uit welke bron wij de nor'men ontvingen (al wil dat niet zeggen dat wij daar angstig onaerelkaar over'zwijgen), maar het felt aat wij alien ons aoen en laten er gelijkelijk door be'invloed weten.",
+     u'ae klassenstrijd-gedachte geweest welke het politieke leven in de laatste veertig, vijftig jaren in ons land heeft beheerscht.',
+     u'antithese-gedachte weinig waarde meer voor het politieke leven van ons land.'],
+ 3: [u"Voor ac oplossing van tallcoze sociale, oconomische en cultureelt vraagstukken was de gedachte terder eeea rem dan' een actieve,- levenwekkende en tot daden aansporende kracht."],
+ 4: [u'Het verklaart waarom ongodsdienstigon, Vri^zmnig- en Orthoaox-Protestanten, Katholieken en zelfs Gereformeerden in ttn verband ijveren voor een gelijkgerichto vernieuwing van het politieke leven in Neaerlana, al sttllen alien ook voorop, aat met deze politieke vernieuwing een geestelijke vernieuwing gepaard moet gaan, ja er misschien zelfs wel aan vooraf moet gaan, wil zij tot haar recht komen.']}
+Ngrams:
+[(u'KLASSENSTRIJD', u'vorige', u'artikel'),
+ (u'vorige', u'artikel', u'keurden'),
+ (u'artikel', u'keurden', u'wij'),
+ (u'keurden', u'wij', u'waarbij'),
+ (u'wij', u'waarbij', u'politieke'),
+ (u'waarbij', u'politieke', u'links'),
+ (u'politieke', u'links', u'rechts'),
+ (u'links', u'rechts', u'voren'),
+ (u'rechts', u'voren', u'geschoven'),
+ (u'voren', u'geschoven', u'werkelijk')]
+==========================================
+
+
+Nr of paragraphs: 1
+Nr of whitespaces: 701
+Nr of alphanumeric characters: 3735
+Tokenized words: De,verouderde,tegenstellingen,tusschen,RECHTS,en,LINKS,.,Behilvo,-c,zai,.,Vermierine,bevat,hot,Be,ce..dier-rummer,van,``,Trouw....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: verouderde,tegenstellingen,RECHTS,LINKS,bevat,hot,Trouw,artikel,onze,Verdient,artikel,titel,toelichting,Verklaring,evenwel,organisaties,komt,alleen,rekening,althans....
+Nr of total tokens: 809
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 202
+Top ten nostop tokens:
+	politieke freq: 9
+	partijen freq: 9
+	wij freq: 7
+	links freq: 4
+	Trouw freq: 4
+	toelichting freq: 3
+	echter freq: 3
+	zeer freq: 3
+	onze freq: 3
+	zoo freq: 3
+
+Usefull to 'useless' tokens ratio: 24.97%
+Avg word length (based on nostop): 6.83
+Whitespace to text ratio: 15.11%
+Upcase-starting words ratio (based on nostop): 12.38%
+Noise to text ratio: 66.06%
+Nr of sentences: 36
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): 0.02, 0.61
+Clusters (nostop)tokens:
+{0: [u'Als zoouanig kunnen wij er ons oan cok zeer wel mcc vereeni^en.',
+     u'Dat ait onjuist is merkten wij evenec.ns al op.',
+     u'Dat zullen er echter, na ir wij Bapen, niet velen zijn.'],
+ 1: [u'( - , p , ... i ... -^',
+     u'Behilvo -c zai.',
+     u'De "linksche" partijen aaarentegen ve-rmeladen niet uiturukmelijk in hun program uit welke bron(nen) ac beginselen van hun politieke werkzaamhel- ifkomstig was (waren).',
+     u'De grootste "linksche" partijen war van, zooals men zich zal herinneren,: ue Sociaal Democratische Bon-, o.e liberale staatsp^rtij M^e Vrijheiasbona" en ac Communistische Partij Holland, Bovenuien waren er aan beiae zijaen nog enkele kleinere partijen, vie we kortheiushalve weglibi-n. Deze inueelino in rechtsche en linksche partijen heeft in de laatste j iren vs6r ue oorleg, naar onze meening, buitengewoon veel kv-raaa gedaan, of beter, veel goeas tegengehouaen.',
+     u"De toelichting gaat veel verier u'an ac verklaring'.",
+     u'De veraeelins in links en rechts is ...airmee vervallen.',
+     u'De verouderde tegenstellingen tusschen RECHTS en LINKS.',
+     u'De zgn.',
+     u'Dit verdient eenige toelichtin .',
+     u'Doch het is al weer ac woora ke v s van Trouw welke voor ons aanleiaing is tat enkele opmerkingen.',
+     u'Het artikel araagt de titel "De Christelijk-Bationale geuachte" en km als toelichting op ac Verklaring woraen beschoUwa.',
+     u'Het bleem, mat verenwooraigers van beiae richtingen het over ue oplossing van bepaalue practische vraagstukkeu vrijwel volkomen eens waren; hun behooren tot twee verschillen.e richtingen was van echter een bezwaar tot politieke samenwerking.',
+     u"Het is evenwel niet onlerteekena door de reeds genoemue organisaties en komt uerhalve' alleen voor rekening van de Trouwreaactie; althans zoc hebben wij het begrepen.",
+     u'In die meening stain wij trouwens niet; alleen.',
+     u'Terwijl in de verkl-a-ri c vooral stellin^ -enomen weru tegen ac grsepen aie ue Staatsgedach.be verabsoluteeren, is in ue toelichtinp sprake van "een links gericht politick en Sociaal rauicalisme, aat in.',
+     u'Vermierine bevat hot Be ce..dier-rummer van "Trouw" nog een artikel, ait onze bijZonuere aanaacht Verdient.',
+     u'Waarschijnlijk doeluen en ue Verklaring en ue toelichting op ueze com...unistische voorstellin... van zaken.',
+     u'he Roomsch-K.-itholieke Staatsp irti j, ac Anti-ReVolutionsiaire t>rtij en ac Christelijk Historische Unit.',
+     u'schien nog willen gebruiken.',
+     u'sommigc geschriften wordt vocrgestela verbs.nu.en te zijn aan het verzet tijaens ac bezetting".'],
+ 2: [u'Daarom yin-en wij het jammer -at Trouw hot wooru links weer in zijn ou-e politieke beteekenis mebruikt.',
+     u"Vo'r ac oorlog kenaen wij in ons land een vrij groot aantal politieke partijen."],
+ 3: [u'- "De overgroote meeraerhei- aer oncer arenasche oraanisaties en zeker ook ac overgroote meeraerheia ar ueelnemers aan het verzetswerk zijn echter naar onze weening in politick en sociaal cpzicht allerminst links raaicaal," alaus Trouw.',
+     u'Do suae scheiaslijnen - waairvan het ontstaan histonsch zeer wel verklaarbaar on to billijken is, doch aie, naaat zij hun werk haaaen ge..moin, uitgeveega behooraen te woraen - bleken keer op keer ac weg tot elkanaer to versperren, tot schaae van lanu en yolk.',
+     u'Gelukki_s begon men reeas v6sr 1940 te beseffen aat ueze toestanu niet zoo kon blijven en ac ouue scrai-sourou oiigetrokken en opgeruimu -ie-n-on te- woraen en, zoo nooaig, nieuwe politieke .^ebouwen aien-en te verrijzen wanneer verbouw niet ac gewonschte ro-sultaten zou opleveren.',
+     u'Het ..as ge-woonto om ueze te Sj.li.tsen in linksche en rechtsche partijen.',
+     u'IVleae om vie reden wel\xe2\x80\x94 aiaen til van bekwame persocnlijkh^uen aan het politieke leven aeel te nemen, waaruoor -c bestaanue partijen nog iaeer in hun isolement weruen geareven.',
+     u'Slechts zij vie meenen -at ens yolk best met restiuratie, met "opknippen", van ue bestaan.e politieke partijen kin Velstaan en verbouw of nieuwbouw onnoc-ig noch "lonschelijk is, zullen het aim.',
+     u'Tij-ens -c odrlogsjaren heeft ..ft besef zich Voraiept en is in tollooze, Zeer verschillenae, groepen van hot Neaerlanasche yolk wakker geworaen.',
+     u'Vele jaren golden reeds kon men zoowel van "rechtsche" als "linksche" zij-e sboo.iii.on hooren aie opkwamen tegen ueze onjuiste inaeeling welke het politieke leven in ons 1m- aeea verstarren.',
+     u'Vooral omuai ueze woorukeus waarschijnlijk niet toevallig is, acch inaerdaaa voortkont uit een zeer bepaaloe opvatting en waaraeerina van ac politieke verheuaingen in Neuerlanu in het verleaen en in ac toekonst.',
+     u'rechtsche partijen ontloenuen hun beginselen uitsluitend aan bepaaloe opvattingen van het Christendom, zoo o.a.'],
+ 4: [u'Wij wezen er reeas op, aat inae.raaa- in "ue Waarheid", het communistische blad, soms ac inaruk worat gewekt ilsof ue communisten de eigenlijke stuw- Brachten van het verzet zijn.']}
+Ngrams:
+[(u'verouderde', u'tegenstellingen', u'RECHTS'),
+ (u'tegenstellingen', u'RECHTS', u'LINKS'),
+ (u'RECHTS', u'LINKS', u'bevat'),
+ (u'LINKS', u'bevat', u'hot'),
+ (u'bevat', u'hot', u'Trouw'),
+ (u'hot', u'Trouw', u'artikel'),
+ (u'Trouw', u'artikel', u'onze'),
+ (u'artikel', u'onze', u'Verdient'),
+ (u'onze', u'Verdient', u'artikel'),
+ (u'Verdient', u'artikel', u'titel')]
+==========================================
+
+
+Nr of paragraphs: 1
+Nr of whitespaces: 325
+Nr of alphanumeric characters: 1091
+Tokenized words: NIEUWJAARSTENSCHEN,.,is,:,'',iirschijnlijk,n..,-p.,de,pwwsnts,in,pa-sÃaman,cm,tij,de,-lanyang,:,.,,,a....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: tij,eerste,bes,nor,tas,geval,redenen,illegale,elkaar,Hot,contact,mot,wis,spin,veter,plicht,oorlog,aio,onze,bevrijding....
+Nr of total tokens: 464
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 34
+Top ten nostop tokens:
+	adders freq: 1
+	tas freq: 1
+	eerste freq: 1
+	Hot freq: 1
+	wis freq: 1
+	onze freq: 1
+	bevrijding freq: 1
+	veter freq: 1
+	reel freq: 1
+	plicht freq: 1
+
+Usefull to 'useless' tokens ratio: 7.33%
+Avg word length (based on nostop): 4.91
+Whitespace to text ratio: 18.81%
+Upcase-starting words ratio (based on nostop): 2.94%
+Noise to text ratio: 101.23%
+Nr of sentences: 28
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): -0.32, 0.77
+Clusters (nostop)tokens:
+{0: [u".'..."],
+ 1: [u'NIEUWJAARSTENSCHEN.'],
+ 2: [u": a' Bs, a ---s reel, geer --:\xe2\x80\xa2\xe2\x80\xa2."],
+ 3: [u'c verlirigor naar het -; Bsie vaa it c3rl:.-rs.'],
+ 4: [u'-lijks si-08-i: te v.i.naen aio vuri.',
+     u': a .',
+     u':\xe2\x80\xa2: asrukkers spin l< orukkers veter.',
+     u';.- a., eh "van- etoiju ea aat go a", r odd :a Uw ziel de vres; : noq.jt vind.l in o.s.',
+     u'Ba adorer: is onze vvensch, brouwe en a ippere medewerkere, dat ge sa hat aa-uas j-..^ soosuig ac bevrijding va. Bmaeriand en het aihd; "va:i do \xe2\x96\xa0"\xe2\x96\xa0ca-log suit mo\'gen belevon, ora s:s -van ijverig a eenaracht-I^ m--- t; a\xc3\x9f.ee aid a\\.',
+     u'Bait \xe2\x96\xa0\xe2\x96\xa0\xe2\x96\xa0 .-";\xe2\x96\xa0 re mm, .-...a luc\xc3\x9ftalsrm, gecp...',
+     u"Dat heeft ..cht'-r in ons geval zijn oosa--.",
+     u'Hot a -, contact is a.-; kr.mt.. 3 \xe2\x80\xa2redact],-, yraae/t mot wis \xe2\x96\xa0\xe2\x80\xa2.',
+     u'IB laa.,.',
+     u"Kebt moede mo,a, s-aanm aesrsiaht L;- e.-r 'as z.wi.>-.t over Uw v.'.- t I :.",
+     u'Sie-tvsmin ir-ijr er \xe2\x96\xa0.',
+     u'Te acme, weten P \xe2\x96\xa0\xe2\x80\xa2 t or.o \'nog t; wachion ;-\'eatT al .. ae bet aim4: adders of dit jaar \xe2\x96\xa0mi ons" io a-.mm-.p<\'.rp.',
+     u'Zvijgend s Icier zijn plicht om ac 1-zer-s bs .p rsiveip hoe leap ac oorlog ook as auren.',
+     u"aat 194^ a le s \xe2\x96\xa0 s stcuiavastignoia :\xe2\x80\xa2 ii Br--ae-an day- riO'Bdig is -as te everwinaeii in ac somas.",
+     u'as amthtv b>memc ons Baaat ad< a. H t Bs echv-i zoovc-r noo a3a 3 aaee hopor; \xe2\x80\xa2\xe2\x96\xa0-/-.',
+     u"as-- taaasao '.",
+     u'is :" iirschijnlijk n.. -p. de pwwsnts in pa-s\xc3\x9faman cm tij de -lanyang :., a;mei- .i ear m ac eerste pints oe bes,to wehschen tot de a c d er k s r s van hat blao b; nor.',
+     u'ni\xc3\x9f.t pie voor i. vsvsir- ism 7-org iragen.',
+     u'of\xe2\x80\x94.',
+     u'opbauw van het v uorlarax.',
+     u'redenen In ac illegale psraas, r-la a..ait men elkaar niet.',
+     u'sam-a3B.v ass sea S\'s v a to c."-\'---I.n is.',
+     u'tas.',
+     u'werischec -a IB aat illertee-te to-, in La-5- 3e woorden: sen Lukki nieuwjaar, alii,!, asp op a a--- -.1,. airi uit is pen.']}
+Ngrams:
+[(u'tij', u'eerste', u'bes'),
+ (u'eerste', u'bes', u'nor'),
+ (u'bes', u'nor', u'tas'),
+ (u'nor', u'tas', u'geval'),
+ (u'tas', u'geval', u'redenen'),
+ (u'geval', u'redenen', u'illegale'),
+ (u'redenen', u'illegale', u'elkaar'),
+ (u'illegale', u'elkaar', u'Hot'),
+ (u'elkaar', u'Hot', u'contact'),
+ (u'Hot', u'contact', u'mot')]
+==========================================
+
+
+Nr of paragraphs: 1
+Nr of whitespaces: 130
+Nr of alphanumeric characters: 659
+Tokenized words: Luchtfront,:,Gisteren,bombardeeraen,1000,mm,.,bwp,doeleri,bij,en,in,Beulen,,,Karlsruhe,on,Frankfurt,;,2,vliegvelaen....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: Luchtfront,Gisteren,1000,Beulen,Frankfurt,locomotieven,300,boven,gevechtsterrein,Ardennen,gemaakt,vooral,luchtmacht,bombardeerde,gister,vannacht,aanvallen,Hannover,welke,zeer....
+Nr of total tokens: 158
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 39
+Top ten nostop tokens:
+	vannacht freq: 3
+	1000 freq: 2
+	aanvallen freq: 1
+	Beulen freq: 1
+	kort freq: 1
+	krachtig freq: 1
+	lucht freq: 1
+	stollingen freq: 1
+	luchtmacht freq: 1
+	Schouwen freq: 1
+
+Usefull to 'useless' tokens ratio: 24.68%
+Avg word length (based on nostop): 6.87
+Whitespace to text ratio: 15.33%
+Upcase-starting words ratio (based on nostop): 23.08%
+Noise to text ratio: 61.36%
+Nr of sentences: 14
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): -0.20, 0.69
+Clusters (nostop)tokens:
+{0: [u'4 aanvallen op Duitschland; 2 op Hannover, welke zeer hovig waren.',
+     u'De Engeische luchtmacht bombardeerde gister ove-raag Ludwigshafen.',
+     u'In totaal was ac R.a.P.',
+     u'Luchtfront:\nGisteren bombardeeraen 1000 mm.',
+     u'Vanochteaa bombaraeerde ac R.A.F.',
+     u'locomotieven weraen Verniela.',
+     u'vannacht met 1000 bwp in ac lucht.'],
+ 1: [u'Gistoravond en vannacht aeed ao R.A.E.',
+     u'Het eilanu Schouwen \xe2\x96\xa0 ore vannacht aoor ue R. 8.1, aangovallen.',
+     u'Ook werd Engelanu weer met Vbommen aangovallen; or ontstond schade en eenige personen werden gedooa.',
+     u"en binaen 2-g- uur weraen uitgevoera en 2 op Berlijn, wt Ike kort, aach vrij krachtig, waren.'"],
+ 2: [u'Ook weraen er 300 vlachten boven het gevechtsterrein in ac Ardennen gemaakt, vooral bij Bastogne en Houffalize.',
+     u'bwp doeleri bij en in Beulen, Karlsruhe on Frankfurt; 2 vliegvelaen en 15 Dt.',
+     u'stollingen in de Araonnen bij Houffalize en Bastogne.']}
+Ngrams:
+[(u'Luchtfront', u'Gisteren', u'1000'),
+ (u'Gisteren', u'1000', u'Beulen'),
+ (u'1000', u'Beulen', u'Frankfurt'),
+ (u'Beulen', u'Frankfurt', u'locomotieven'),
+ (u'Frankfurt', u'locomotieven', u'300'),
+ (u'locomotieven', u'300', u'boven'),
+ (u'300', u'boven', u'gevechtsterrein'),
+ (u'boven', u'gevechtsterrein', u'Ardennen'),
+ (u'gevechtsterrein', u'Ardennen', u'gemaakt'),
+ (u'Ardennen', u'gemaakt', u'vooral')]
+==========================================
+
+
+Nr of paragraphs: 1
+Nr of whitespaces: 236
+Nr of alphanumeric characters: 1168
+Tokenized words: Westfront,:,Velumaarschalk,Montgomery,is,tot,opperbevelhebber,<,#,van,alle,geall.troepen,benoemd,,,',welke,ten,N.,van,ao....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: Westfront,opperbevelhebber,alle,benoemd,welke,strijden,bevel,staan,thans,leger,ton,vechtende,staan,hot,bevel,Bradley,geallieerden,gisteren,weer,terrein....
+Nr of total tokens: 266
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 73
+Top ten nostop tokens:
+	terrein freq: 4
+	weer freq: 4
+	thans freq: 3
+	gisteren freq: 3
+	Rijn freq: 3
+	gevechten freq: 2
+	leger freq: 2
+	troepen freq: 2
+	offensief freq: 2
+	geallieerden freq: 2
+
+Usefull to 'useless' tokens ratio: 27.44%
+Avg word length (based on nostop): 6.93
+Whitespace to text ratio: 16.13%
+Upcase-starting words ratio (based on nostop): 16.44%
+Noise to text ratio: 59.32%
+Nr of sentences: 18
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): -0.22, 0.78
+Clusters (nostop)tokens:
+{0: [u'Bij Mullhausen zijn Eranscho patrouillo-s Ue Rijn overgestoken en deze zijn thans in gevechten gewikkeld met de Duitsche troepen.',
+     u'Boor ait offensief loo^t ue staa Straatsburg gmvaar.',
+     u'Deze benoemingmn zijn reeds op IS jl.',
+     u'Er wordt hier nu hevig gevochten.',
+     u'Genoraal Bradley.',
+     u'In ait gebied zijn ze thans 20 mm opgerukt Sedert het begin van hun offensief.',
+     u'Ook tusschen de Rijn en Saar moeten ao geallieerden zich nog blijvon terugtrekken.',
+     u'Op ue weg naar Laroche vorderae het Br.2e leger gisteren 1 km, terwijl ac Amerikanen 5 km terreinwinst boekten in do richting van Roaffalize.',
+     u'en het Iste Ganaaeesche leger.',
+     u'ingogaan.'],
+ 1: [u'Do ton Z. van de Dt.saillanb vechtende geall.troepen staan onaer hot bevel van ac Am.',
+     u'Onaer zijn bevel staan thans het lste en 9e Am., het 2e Br.'],
+ 2: [u'11 Km ten Z. van Straatsburg hebben -c auitschers troepen over de Rijn gezet.',
+     u'Aan woor\xc3\x9fzijaei van ac dt.saillant hebben ac geallieerden gisteren weer eenig terrein gewormen.',
+     u'Het 3o Am.leger maakte ten N. en ten Z. van Bastogne ocnige vorUoringen, aoch moest ten 0. van Bastogne weer eenig terrein prijsgeven.',
+     u'Ten 0. van Bitsch hebben zij weer terrein verovera.',
+     u"Westfront:\nVelumaarschalk Montgomery is tot opperbevelhebber<#van alle geall.troepen benoemd,' welke ten N. van ao Dt.saillant in Belgie strijden."],
+ 3: [u'Door het slechte weer, regen en sneeuw, is het terrein moeilijk begaanbaar en er worden dan oom geen gevechten van grooten omvang gemeldi In ac Slzas vor-erden de Duitschers ook gisteren nog.']}
+Ngrams:
+[(u'Westfront', u'opperbevelhebber', u'alle'),
+ (u'opperbevelhebber', u'alle', u'benoemd'),
+ (u'alle', u'benoemd', u'welke'),
+ (u'benoemd', u'welke', u'strijden'),
+ (u'welke', u'strijden', u'bevel'),
+ (u'strijden', u'bevel', u'staan'),
+ (u'bevel', u'staan', u'thans'),
+ (u'staan', u'thans', u'leger'),
+ (u'thans', u'leger', u'ton'),
+ (u'leger', u'ton', u'vechtende')]
+==========================================
+
+
+Nr of paragraphs: 1
+Nr of whitespaces: 27
+Nr of alphanumeric characters: 177
+Tokenized words: Verre,Oosten,:,Vanuit,China,bombardeeraen,vandaag,super-vliegenae,forten,Japan..,Gebombar-,Ueerd,werden,ac,Jap.eilanden,mioesjioe,o-n,Formosa,.,Ook....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: Verre,Oosten,Vanuit,China,vandaag,forten,Japan..,werden,Formosa,eerste,maal....
+Nr of total tokens: 31
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 11
+Top ten nostop tokens:
+	Oosten freq: 1
+	vandaag freq: 1
+	maal freq: 1
+	Japan.. freq: 1
+	Vanuit freq: 1
+	eerste freq: 1
+	werden freq: 1
+	forten freq: 1
+	Verre freq: 1
+	China freq: 1
+
+Usefull to 'useless' tokens ratio: 35.48%
+Avg word length (based on nostop): 5.91
+Whitespace to text ratio: 12.68%
+Upcase-starting words ratio (based on nostop): 54.55%
+Noise to text ratio: 58.33%
+Nr of sentences: 2
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): 0.07, 0.43
+Clusters (nostop)tokens:
+{0: [u'Ook werd de Chineesche staa Foe-Tsjou voor de eerste maal gebombardeera.'],
+ 1: [u'Verre Oosten:\nVanuit China bombardeeraen vandaag super-vliegenae forten Japan.. Gebombar- Ueerd werden ac Jap.eilanden mioesjioe o-n Formosa.']}
+Ngrams:
+[(u'Verre', u'Oosten', u'Vanuit'),
+ (u'Oosten', u'Vanuit', u'China'),
+ (u'Vanuit', u'China', u'vandaag'),
+ (u'China', u'vandaag', u'forten'),
+ (u'vandaag', u'forten', u'Japan..'),
+ (u'forten', u'Japan..', u'werden'),
+ (u'Japan..', u'werden', u'Formosa'),
+ (u'werden', u'Formosa', u'eerste'),
+ (u'Formosa', u'eerste', u'maal')]
+==========================================
+
+
+Nr of paragraphs: 0
+Nr of whitespaces: 1771
+Nr of alphanumeric characters: 9536
+Tokenized words: DE,KLASSENSTRIJD,.,In,ens,vorige,artikel,keurden,wij,voorstblling,van,zaken.af,waarbij,ac,ouae,politieke,indeeling,in,links,en....
+Tokenized (clean)words: ....
+Tokenized (nostop)words: KLASSENSTRIJD,vorige,artikel,keurden,wij,waarbij,politieke,links,rechts,voren,geschoven,werkelijk,bestaande,onze,antithese-gedachte,weinig,waarde,politieke,leven,land....
+Nr of total tokens: 2255
+Nr of total (clean)tokens: 0
+Nr of total (nostop)tokens: 551
+Top ten nostop tokens:
+	politieke freq: 17
+	wij freq: 14
+	onze freq: 9
+	partijen freq: 9
+	weer freq: 7
+	welke freq: 7
+	leven freq: 6
+	links freq: 5
+	hot freq: 4
+	terrein freq: 4
+
+Usefull to 'useless' tokens ratio: 24.43%
+Avg word length (based on nostop): 6.99
+Whitespace to text ratio: 14.71%
+Upcase-starting words ratio (based on nostop): 11.80%
+Noise to text ratio: 64.75%
+Nr of sentences: 120
+Ratio nr of (nostop)tokens in dutch dict: 100.00%
+Avg sentiment (polarity/subjectivity): -0.07, 0.60
+Clusters (nostop)tokens:
+{0: [u'( - , p , ... i ... -^\nNIEUWJAARSTENSCHEN.',
+     u'(Wordt vervolgd).',
+     u", maar evenmin dat wij van meening zouden zijn, aat ac politick niet aan bepaalae _ geestelijke normen gebonaen behoort te' zijn.",
+     u'-De arbeiders, daarentegen, verWeren zich en sluiten zich aan\xc2\xa3\xc2\xa3n.',
+     u'-lijks si-08-i: te v.i.naen aio vuri.',
+     u".'...",
+     u'11 Km ten Z. van Straatsburg hebben -c auitschers troepen over de Rijn gezet.',
+     u'4 aanvallen op Duitschland; 2 op Hannover, welke zeer hovig waren.',
+     u': a .',
+     u':\xe2\x80\xa2: asrukkers spin l< orukkers veter.',
+     u';.- a., eh "van- etoiju ea aat go a", r odd :a Uw ziel de vres; : noq.jt vind.l in o.s.',
+     u'Als zoouanig kunnen wij er ons oan cok zeer wel mcc vereeni^en.',
+     u"Anderen in onze rijen ontleenen aat inzacht aan een niet-Christtlijke' levensovertuiging, by.",
+     u'Bait \xe2\x96\xa0\xe2\x96\xa0\xe2\x96\xa0 .-";\xe2\x96\xa0 re mm, .-...a luc\xc3\x9ftalsrm, gecp...\n: a\' Bs, a ---s reel, geer --:\xe2\x80\xa2\xe2\x80\xa2.',
+     u'Behilvo -c zai.',
+     u'Boor ait offensief loo^t ue staa Straatsburg gmvaar.',
+     u'DE KLASSENSTRIJD.',
+     u'Daarom yin-en wij het jammer -at Trouw hot wooru links weer in zijn ou-e politieke beteekenis mebruikt.',
+     u'Dat ait onjuist is merkten wij evenec.ns al op.',
+     u"Dat heeft ..cht'-r in ons geval zijn oosa--.",
+     u'Dat zullen er echter, na ir wij Bapen, niet velen zijn.',
+     u'De Engeische luchtmacht bombardeerde gister ove-raag Ludwigshafen.',
+     u'De ondernemer, die zich moet zien staande te houden in een moordende concurrentie, mdet zijn arbeiaers aaartot uitbuiten.',
+     u"De toelichting gaat veel verier u'an ac verklaring'.",
+     u'De verouderde tegenstellingen tusschen RECHTS en LINKS.',
+     u'De zgn.',
+     u'Deze benoemingmn zijn reeds op IS jl.',
+     u'Dit verdient eenige toelichtin .',
+     u'Er wordt hier nu hevig gevochten.',
+     u'Genoraal Bradley.',
+     u'Gistoravond en vannacht aeed ao R.A.E.',
+     u'Het bleem, mat verenwooraigers van beiae richtingen het over ue oplossing van bepaalue practische vraagstukkeu vrijwel volkomen eens waren; hun behooren tot twee verschillen.e richtingen was van echter een bezwaar tot politieke samenwerking.',
+     u"Het economisch gebeuren drijft ac geschiedenis.'",
+     u'Het eilanu Schouwen \xe2\x96\xa0 ore vannacht aoor ue R. 8.1, aangovallen.',
+     u'IB laa.,.',
+     u'In ait gebied zijn ze thans 20 mm opgerukt Sedert het begin van hun offensief.',
+     u'In die meening stain wij trouwens niet; alleen.',
+     u'In totaal was ac R.a.P.',
+     u"Kebt moede mo,a, s-aanm aesrsiaht L;- e.-r 'as z.wi.>-.t over Uw v.'.- t I :.",
+     u'Luchtfront:\nGisteren bombardeeraen 1000 mm.',
+     u'Naar onze meening heeft deze^zgn.',
+     u'Naast ac antithese is het voornamelijk.',
+     u'Onaer zijn bevel staan thans het lste en 9e Am., het 2e Br.',
+     u'Ook werd Engelanu weer met Vbommen aangovallen; or ontstond schade en eenige personen werden gedooa.',
+     u'Ook werd de Chineesche staa Foe-Tsjou voor de eerste maal gebombardeera.',
+     u'Persoonlijk zien wij aat als een taak ons aoor aen Allerhoogste opgelegd.',
+     u'Sie-tvsmin ir-ijr er \xe2\x96\xa0.',
+     u'Te acme, weten P \xe2\x96\xa0\xe2\x80\xa2 t or.o \'nog t; wachion ;-\'eatT al .. ae bet aim4: adders of dit jaar \xe2\x96\xa0mi ons" io a-.mm-.p<\'.rp.',
+     u'Vanochteaa bombaraeerde ac R.A.F.',
+     u'Vermierine bevat hot Be ce..dier-rummer van "Trouw" nog een artikel, ait onze bijZonuere aanaacht Verdient.',
+     u'Verre Oosten:\nVanuit China bombardeeraen vandaag super-vliegenae forten Japan.. Gebombar- Ueerd werden ac Jap.eilanden mioesjioe o-n Formosa.',
+     u"Vo'r ac oorlog kenaen wij in ons land een vrij groot aantal politieke partijen.",
+     u'Zvijgend s Icier zijn plicht om ac 1-zer-s bs .p rsiveip hoe leap ac oorlog ook as auren.',
+     u'aan een uitsluitend-humanistische, Israelitische dan wel aan een andert philoso-phische of religieuze leer.',
+     u'antithese-gedachte weinig waarde meer voor het politieke leven van ons land.',
+     u'as amthtv b>memc ons Baaat ad< a. H t Bs echv-i zoovc-r noo a3a 3 aaee hopor; \xe2\x80\xa2\xe2\x96\xa0-/-.',
+     u"as-- taaasao '.",
+     u'bwp doeleri bij en in Beulen, Karlsruhe on Frankfurt; 2 vliegvelaen en 15 Dt.',
+     u'c verlirigor naar het -; Bsie vaa it c3rl:.-rs.',
+     u"en binaen 2-g- uur weraen uitgevoera en 2 op Berlijn, wt Ike kort, aach vrij krachtig, waren.'",
+     u'en het Iste Ganaaeesche leger.',
+     u'he Roomsch-K.-itholieke Staatsp irti j, ac Anti-ReVolutionsiaire t>rtij en ac Christelijk Historische Unit.',
+     u'ingogaan.',
+     u'locomotieven weraen Verniela.',
+     u'ni\xc3\x9f.t pie voor i. vsvsir- ism 7-org iragen.',
+     u'of\xe2\x80\x94.',
+     u'opbauw van het v uorlarax.',
+     u'redenen In ac illegale psraas, r-la a..ait men elkaar niet.',
+     u'sam-a3B.v ass sea S\'s v a to c."-\'---I.n is.',
+     u'schien nog willen gebruiken.',
+     u'sommigc geschriften wordt vocrgestela verbs.nu.en te zijn aan het verzet tijaens ac bezetting".',
+     u'tas.',
+     u'vannacht met 1000 bwp in ac lucht.'],
+ 1: [u'Aan woor\xc3\x9fzijaei van ac dt.saillant hebben ac geallieerden gisteren weer eenig terrein gewormen.',
+     u'Het 3o Am.leger maakte ten N. en ten Z. van Bastogne ocnige vorUoringen, aoch moest ten 0. van Bastogne weer eenig terrein prijsgeven.',
+     u'Ten 0. van Bitsch hebben zij weer terrein verovera.',
+     u"Westfront:\nVelumaarschalk Montgomery is tot opperbevelhebber<#van alle geall.troepen benoemd,' welke ten N. van ao Dt.saillant in Belgie strijden."],
+ 2: [u'Hot a -, contact is a.-; kr.mt.. 3 \xe2\x80\xa2redact],-, yraae/t mot wis \xe2\x96\xa0\xe2\x80\xa2.',
+     u"aat 194^ a le s \xe2\x96\xa0 s stcuiavastignoia :\xe2\x80\xa2 ii Br--ae-an day- riO'Bdig is -as te everwinaeii in ac somas.",
+     u'is :" iirschijnlijk n.. -p. de pwwsnts in pa-s\xc3\x9faman cm tij de -lanyang :., a;mei- .i ear m ac eerste pints oe bes,to wehschen tot de a c d er k s r s van hat blao b; nor.',
+     u'werischec -a IB aat illertee-te to-, in La-5- 3e woorden: sen Lukki nieuwjaar, alii,!, asp op a a--- -.1,. airi uit is pen.'],
+ 3: [u'De "linksche" partijen aaarentegen ve-rmeladen niet uiturukmelijk in hun program uit welke bron(nen) ac beginselen van hun politieke werkzaamhel- ifkomstig was (waren).',
+     u'IVleae om vie reden wel\xe2\x80\x94 aiaen til van bekwame persocnlijkh^uen aan het politieke leven aeel te nemen, waaruoor -c bestaanue partijen nog iaeer in hun isolement weruen geareven.',
+     u'Vele jaren golden reeds kon men zoowel van "rechtsche" als "linksche" zij-e sboo.iii.on hooren aie opkwamen tegen ueze onjuiste inaeeling welke het politieke leven in ons 1m- aeea verstarren.',
+     u'Vooral omuai ueze woorukeus waarschijnlijk niet toevallig is, acch inaerdaaa voortkont uit een zeer bepaaloe opvatting en waaraeerina van ac politieke verheuaingen in Neuerlanu in het verleaen en in ac toekonst.',
+     u'rechtsche partijen ontloenuen hun beginselen uitsluitend aan bepaaloe opvattingen van het Christendom, zoo o.a.'],
+ 4: [u'- "De overgroote meeraerhei- aer oncer arenasche oraanisaties en zeker ook ac overgroote meeraerheia ar ueelnemers aan het verzetswerk zijn echter naar onze weening in politick en sociaal cpzicht allerminst links raaicaal," alaus Trouw.',
+     u'- Zeer in het kort is daarmee de kern-inhoud Van het Marxisme geschetst.',
+     u'Ba adorer: is onze vvensch, brouwe en a ippere medewerkere, dat ge sa hat aa-uas j-..^ soosuig ac bevrijding va. Bmaeriand en het aihd; "va:i do \xe2\x96\xa0"\xe2\x96\xa0ca-log suit mo\'gen belevon, ora s:s -van ijverig a eenaracht-I^ m--- t; a\xc3\x9f.ee aid a\\.',
+     u'Bij Mullhausen zijn Eranscho patrouillo-s Ue Rijn overgestoken en deze zijn thans in gevechten gewikkeld met de Duitsche troepen.',
+     u"De economische omgeving is bepalend voor ac mensch en zijn iaeeen; aientengevolge is ac geschiedenis van de mehschbeid met'anders dan de ontwikkeling van het economische leven.",
+     u'De geschiedenis, zoo zegt Marx, is aerhalve een geschiedenis van klassenstrija, want in de maatschappelijkt huishouding staan twee groepen, de arbeiaers en de kapitalisten, onverzoenlijk tegenover elkaar.',
+     u'De grootste "linksche" partijen war van, zooals men zich zal herinneren,: ue Sociaal Democratische Bon-, o.e liberale staatsp^rtij M^e Vrijheiasbona" en ac Communistische Partij Holland, Bovenuien waren er aan beiae zijaen nog enkele kleinere partijen, vie we kortheiushalve weglibi-n. Deze inueelino in rechtsche en linksche partijen heeft in de laatste j iren vs6r ue oorleg, naar onze meening, buitengewoon veel kv-raaa gedaan, of beter, veel goeas tegengehouaen.',
+     u'De leer van de klassenstrijd zooals aie door Marx, Engels en anderen is opgestela en ontwikkeld komt in hoofdzakeh hierop neer: De mensch wordt in zijn goheele denken en hanaelbn beheerscht aoor ac economische omstanaigheden waarin hio is opgevoed en verkeert.',
+     u'De spanning tusschen beide groepen neemt steeds toe en zal tenslotte tot een nieuwe orae leiaen, wanneer het proletariaat naar ac macht grijpt .en de prouuctie-miaaelen tot gemeenschappelijk eigendom maakt.',
+     u'De veraeelins in links en rechts is ...airmee vervallen.',
+     u"Deze erkenning wil natuurlijk niet zeggen dat een Chri'stelijke geloofsovertuiging geen invloed zou hebben op de politieke den'kbeelaen (integendeel! )",
+     u'Do suae scheiaslijnen - waairvan het ontstaan histonsch zeer wel verklaarbaar on to billijken is, doch aie, naaat zij hun werk haaaen ge..moin, uitgeveega behooraen te woraen - bleken keer op keer ac weg tot elkanaer to versperren, tot schaae van lanu en yolk.',
+     u'Do ton Z. van de Dt.saillanb vechtende geall.troepen staan onaer hot bevel van ac Am.',
+     u'Doch het is al weer ac woora ke v s van Trouw welke voor ons aanleiaing is tat enkele opmerkingen.',
+     u'Door het slechte weer, regen en sneeuw, is het terrein moeilijk begaanbaar en er worden dan oom geen gevechten van grooten omvang gemeldi In ac Slzas vor-erden de Duitschers ook gisteren nog.',
+     u'Gelukki_s begon men reeas v6sr 1940 te beseffen aat ueze toestanu niet zoo kon blijven en ac ouue scrai-sourou oiigetrokken en opgeruimu -ie-n-on te- woraen en, zoo nooaig, nieuwe politieke .^ebouwen aien-en te verrijzen wanneer verbouw niet ac gewonschte ro-sultaten zou opleveren.',
+     u'Het ..as ge-woonto om ueze te Sj.li.tsen in linksche en rechtsche partijen.',
+     u'Het artikel araagt de titel "De Christelijk-Bationale geuachte" en km als toelichting op ac Verklaring woraen beschoUwa.',
+     u"Het is evenwel niet onlerteekena door de reeds genoemue organisaties en komt uerhalve' alleen voor rekening van de Trouwreaactie; althans zoc hebben wij het begrepen.",
+     u'Het verklaart waarom ongodsdienstigon, Vri^zmnig- en Orthoaox-Protestanten, Katholieken en zelfs Gereformeerden in ttn verband ijveren voor een gelijkgerichto vernieuwing van het politieke leven in Neaerlana, al sttllen alien ook voorop, aat met deze politieke vernieuwing een geestelijke vernieuwing gepaard moet gaan, ja er misschien zelfs wel aan vooraf moet gaan, wil zij tot haar recht komen.',
+     u'In ens vorige artikel keurden wij voorstblling van zaken.af waarbij ac ouae politieke indeeling in links en rechts we.derom naar voren werd geschoven als een werkelijk nog bestaande.',
+     u'Meerdere malen spraken wij immers reeds als onze vaste overtuiging uit, dat onze activitert- (een politieke activiteitl) voortaurend en overal ten doel heeft de ontplooiing van de menschelijke persoonlijkheid.',
+     u'Ook tusschen de Rijn en Saar moeten ao geallieerden zich nog blijvon terugtrekken.',
+     u'Ook weraen er 300 vlachten boven het gevechtsterrein in ac Ardennen gemaakt, vooral bij Bastogne en Houffalize.',
+     u'Op ue weg naar Laroche vorderae het Br.2e leger gisteren 1 km, terwijl ac Amerikanen 5 km terreinwinst boekten in do richting van Roaffalize.',
+     u'Slechts zij vie meenen -at ens yolk best met restiuratie, met "opknippen", van ue bestaan.e politieke partijen kin Velstaan en verbouw of nieuwbouw onnoc-ig noch "lonschelijk is, zullen het aim.',
+     u'Terwijl in de verkl-a-ri c vooral stellin^ -enomen weru tegen ac grsepen aie ue Staatsgedach.be verabsoluteeren, is in ue toelichtinp sprake van "een links gericht politick en Sociaal rauicalisme, aat in.',
+     u'Tij-ens -c odrlogsjaren heeft ..ft besef zich Voraiept en is in tollooze, Zeer verschillenae, groepen van hot Neaerlanasche yolk wakker geworaen.',
+     u"Voor ac oplossing van tallcoze sociale, oconomische en cultureelt vraagstukken was de gedachte terder eeea rem dan' een actieve,- levenwekkende en tot daden aansporende kracht.",
+     u"Voor onze gemeenschappelijke politieke opvattingen is niet het belangrijkste uit welke bron wij de nor'men ontvingen (al wil dat niet zeggen dat wij daar angstig onaerelkaar over'zwijgen), maar het felt aat wij alien ons aoen en laten er gelijkelijk door be'invloed weten.",
+     u'Waarschijnlijk doeluen en ue Verklaring en ue toelichting op ueze com...unistische voorstellin... van zaken.',
+     u'Wij wezen er reeas op, aat inae.raaa- in "ue Waarheid", het communistische blad, soms ac inaruk worat gewekt ilsof ue communisten de eigenlijke stuw- Brachten van het verzet zijn.',
+     u'ae klassenstrijd-gedachte geweest welke het politieke leven in de laatste veertig, vijftig jaren in ons land heeft beheerscht.',
+     u'stollingen in de Araonnen bij Houffalize en Bastogne.']}
+Ngrams:
+[(u'KLASSENSTRIJD', u'vorige', u'artikel'),
+ (u'vorige', u'artikel', u'keurden'),
+ (u'artikel', u'keurden', u'wij'),
+ (u'keurden', u'wij', u'waarbij'),
+ (u'wij', u'waarbij', u'politieke'),
+ (u'waarbij', u'politieke', u'links'),
+ (u'politieke', u'links', u'rechts'),
+ (u'links', u'rechts', u'voren'),
+ (u'rechts', u'voren', u'geschoven'),
+ (u'voren', u'geschoven', u'werkelijk')]
+==========================================
+
+
