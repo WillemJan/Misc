@@ -1,0 +1,106 @@
+#!/usr/bin/python3
+
+import os, subprocess, codecs, hashlib
+
+from urllib import request, error
+from urllib.parse import quote_plus
+
+class Harvest():
+    files = {}
+    artist = {}
+    album = {}
+
+    def get_wiki_data(self, name, type="artist"):
+        if ( type == "artist" ):
+            req =request.Request('http://en.wikipedia.org/wiki/' + quote_plus(name)+"_(band)")
+            print('http://en.wikipedia.org/wiki/' + quote_plus(name)+"_(band)")
+            try:
+                code=(request.urlopen(req))
+                return(code.read())
+            except error.URLError as e:
+                try:
+                    req =request.Request('http://en.wikipedia.org/wiki/' + quote_plus(name))
+                    print('http://en.wikipedia.org/wiki/' + quote_plus(name))
+                    code=(request.urlopen(req))
+                    return(code)
+                except error.URLError as e:
+                    try:
+                        req =request.Request('http://nl.wikipedia.org/wiki/' + quote_plus(name))
+                        print('http://nl.wikipedia.org/wiki/' + quote_plus(name))
+                        code=(request.urlopen(req))
+                        return(code)
+                    except:
+                        return(e)
+                    return(e)
+
+    def __init__(self):
+        self.known_file_extentions = { "mp3" : True }
+        self.ftype = { "audio file" : self.mp3 }
+        files = codecs.open("/tmp/new_collection", "r", "utf-8", "replace").read()
+        for file in files.split("\n"):
+            if (file.find('"') > -1):
+                self.files[("'"+file+"'")]="ok"
+            elif (file.find("'") > -1):
+                self.files[('"'+file+'"')]="ok"
+            else:
+                self.files[("'"+file+"'")]="ok"
+
+    def __add_artist__(self, artist, album):
+        artist=artist.encode("iso-8859-1").decode("iso-8859-1")
+        
+        try:
+            self.artist[artist].append(album)
+        except:
+            self.artist[artist]=[album]
+
+    def mp3(self, name):
+        p1=subprocess. Popen("/usr/bin/id3v2" + " -l " + name ,shell=True, stdout=subprocess.PIPE)
+        result=(p1.communicate()[0]).decode("iso-8859-1")
+        artist=""
+        artist1=""
+        album=""
+        for item in result.split("\\n"):
+            for i in (item.split("\n")):
+                if i.startswith("TALB"):
+                    album="".join(i.split(":")[1:]).strip()
+                if i.startswith("TPE1"):
+                    artist1="".join(i.split(":")[1:]).strip()
+                    artist1="".join(artist1.split("(")[0])
+                    artist1="".join(artist1.split(",")[0])
+                if i.startswith("Title"):
+                    tmp=(i.split("Title  :")[1].strip())
+                    artist=tmp.split("Artist:")[1].strip()
+                    artist="".join(artist1.split("(")[0])
+                    artist="".join(artist1.split(",")[0])
+
+        if (len(artist+artist1) > 0):
+           if ( artist1.strip().lower() == artist.strip().lower() ):
+                artist=artist.split(",")[0]
+                self.__add_artist__(artist, album)
+           else: # Metadata is not, or less valid
+                if (len(artist) > 0):
+                    artist=artist.split(",")[0]
+                    self.__add_artist__(artist, album)
+                elif (len(artist1) > 0):
+                    artist1=artist1.split(",")[0]
+                    self.__add_artist__(artist1, album)
+
+
+if __name__ == "__main__":
+    harvest = Harvest()
+    i=0
+
+    for item in harvest.files.keys():
+        i+=1
+        for key in harvest.known_file_extentions.keys():
+            if item[1:-1].endswith(key):
+                p1=subprocess. Popen("/usr/bin/file " +item ,shell=True, stdout=subprocess.PIPE)
+                curr_file=str(p1.communicate()[0].strip())
+                for ftype in harvest.ftype.keys():
+                    if ( curr_file.lower().find(ftype) > -1 ):
+                        harvest.ftype[ftype](item)
+        if i>10:
+            break
+    for artist in sorted(harvest.artist.keys()):
+        print(artist)
+        print(harvest.get_wiki_data(str(artist)))

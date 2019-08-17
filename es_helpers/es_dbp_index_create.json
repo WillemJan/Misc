@@ -1,0 +1,22 @@
+{
+  "mappings":{
+    "dbpedia":{
+        "properties": {
+            "id":    { "type": "string", "index": "not_analyzed"},
+            "id_nl": { "type": "string", "index": "not_analyzed"},
+            "id_en": { "type": "string", "index": "not_analyzed"},
+            "id_wd": { "type": "string", "index": "not_analyzed"},
+            "lastpart" : { "type" : "string"},
+            "lastpart_str" : { "type" : "string", "index": "not_analyzed" },
+            "pref_title" : {"type" : "string"},
+            "pref_title_str" : {"type" :"string", "index" : "not_analyzed"},
+            "title" : { "type" : "string"},
+            "title_str" : {"type" : "string", "index" : "not_analyzed" },
+            "org_title" : {"type" : "string"},
+            "org_title_str" : {"type" : "string", "index" : "not_analyzed"},
+            "inlinks" : {"type" : "integer", "index" : "not_analyzed"},
+            "disambig" : {"type" : "integer"}
+      }
+    }
+  }
+}

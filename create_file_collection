@@ -1,0 +1,34 @@
+#!/bin/bash
+#
+#
+#
+#
+#
+
+case $1 in
+        audio)
+            if [ "$2" ]; then
+                echo "Getting file names from $2 ..."
+                find $2 > /tmp/new_audio_collection 
+                files=$(cat /tmp/new_audio_collection)
+                if [ "$files" ]; then
+                    echo "Done"
+                else
+                    echo "Failed, no files found in $2"
+                    exit 1
+                fi
+
+            else
+                echo "Missing paramerter"
+                echo "Usage : create_file_collection TYPE path_to_files"
+                echo "Supported types, audio, video, books"
+                exit 1
+
+            fi
+        ;;
+
+        *)
+            echo "Usage : create_file_collection TYPE path_to_files"
+            exit 1
+        ;;
+esac

@@ -1,0 +1,3 @@
+https://github.com/elastic/elasticsearch-py-async.git
+
+#git svn clone -T branches/somefeature http://example.com/PROJECT

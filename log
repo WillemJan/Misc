@@ -1,0 +1,1640 @@
+=====
+
+
+Start: index_longabstracts Time: 09-05 10:47:41
+=====
+
+
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Andre_Agassi>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Andre_Agassi%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Atlantische_Oceaan>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Atlantische_Oceaan%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aannemer>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aannemer%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alan_Turing>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alan_Turing%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Architectuur>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Architectuur%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anthony_Fokker>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anthony_Fokker%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Antwerpen_(stad)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Antwerpen_%28stad%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Acteur>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Acteur%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Groen_(partij)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Groen_%28partij%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anna_Enquist>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anna_Enquist%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Afghanistan>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Afghanistan%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Abel_Tasman>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Abel_Tasman%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Amstel_(rivier)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Amstel_%28rivier%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/AEX>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/AEX%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aristoteles>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aristoteles%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Architect>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Architect%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Ad_Melkert>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Ad_Melkert%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Amsterdam_Anders/De_Groenen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Amsterdam_Anders/De_Groenen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Albert_Speer>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Albert_Speer%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aardwetenschappen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aardwetenschappen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Albert_Plesman>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Albert_Plesman%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Algoritme>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Algoritme%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alpen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alpen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Astronomie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Astronomie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Annie_Cannon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Annie_Cannon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Andorra>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Andorra%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Archeologie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Archeologie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alfabet>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alfabet%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Antropologie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Antropologie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aarde_(planeet)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aarde_%28planeet%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aardewerk>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aardewerk%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Afdeling_(leger)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Afdeling_%28leger%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Andreas_Capellanus>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Andreas_Capellanus%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Ares_(mythologie)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Ares_%28mythologie%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alfred_Adler>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alfred_Adler%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aswoensdag>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aswoensdag%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Antarctica>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Antarctica%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anaxagoras>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anaxagoras%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Armoede>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Armoede%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anaximenes>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anaximenes%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Amok>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Amok%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/@>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/%40%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Archimedes>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Archimedes%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Auteur>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Auteur%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Albert_Van_Dyck>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Albert_Van_Dyck%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/AWK>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/AWK%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Allerzielen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Allerzielen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Azië>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Azi%C3%AB%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Ada_Lovelace>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Ada_Lovelace%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Albert_Einstein>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Albert_Einstein%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aids>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aids%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aboe_Nidal>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aboe_Nidal%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Apterygota>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Apterygota%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Afro-Aziatische_talen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Afro-Aziatische_talen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aardappel>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aardappel%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Antoni_van_Leeuwenhoek>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Antoni_van_Leeuwenhoek%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Archosauria>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Archosauria%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anatolische_talen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anatolische_talen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anti-Revolutionaire_Partij>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anti-Revolutionaire_Partij%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Arabische_Liga>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Arabische_Liga%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Atletiek>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Atletiek%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Algemeen_Belgisch_Vakverbond>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Algemeen_Belgisch_Vakverbond%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Algerije>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Algerije%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Annie_M.G._Schmidt>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Annie_M.G._Schmidt%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Aruba>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Aruba%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Spinachtigen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Spinachtigen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Arsaciden>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Arsaciden%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Antibioticum>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Antibioticum%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Algemene_Centrale_der_Liberale_Vakbonden_van_België>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Algemene_Centrale_der_Liberale_Vakbonden_van_Belgi%C3%AB%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Amstel_Gold_Race>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Amstel_Gold_Race%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Allergeen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Allergeen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Biografielijst>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Biografielijst%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Adolf_Hitler>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Adolf_Hitler%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Anna_Komnene>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Anna_Komnene%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Astronomische_eenheid>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Astronomische_eenheid%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Atoomkern>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Atoomkern%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/A.F.Th._van_der_Heijden>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/A.F.Th._van_der_Heijden%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Arantxa_Sánchez_Vicario>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Arantxa_S%C3%A1nchez_Vicario%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Spinnen_(dieren)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Spinnen_%28dieren%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alexios_II_Komnenos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alexios_II_Komnenos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alexios_V_Doukas_Mourtzouphlos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alexios_V_Doukas_Mourtzouphlos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Beeldende_kunst>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Beeldende_kunst%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alfred_Nobel>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alfred_Nobel%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alexios_I_Komnenos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alexios_I_Komnenos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alexios_IV_Angelos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alexios_IV_Angelos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Beeldhouwkunst>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Beeldhouwkunst%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Arcadius>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Arcadius%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bibliotheek_(algemeen)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bibliotheek_%28algemeen%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Achaemeniden>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Achaemeniden%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alexios_III_Angelos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alexios_III_Angelos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Afrikaans_Nationaal_Congres>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Afrikaans_Nationaal_Congres%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Argon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Argon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Belegging>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Belegging%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Provincies_van_België>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Provincies_van_Belgi%C3%AB%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Burgemeester>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Burgemeester%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Biologie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Biologie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Braille>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Braille%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boeddhisme>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boeddhisme%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Babylon_(stad)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Babylon_%28stad%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Barokmuziek>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Barokmuziek%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bijbel_(christendom)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bijbel_%28christendom%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Lijst_van_biografieën_(popmuziek)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Lijst_van_biografie%C3%ABn_%28popmuziek%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Belgische_Grondwet>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Belgische_Grondwet%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Besturingssysteem>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Besturingssysteem%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bas_van_der_Vlies>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bas_van_der_Vlies%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Byte>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Byte%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bluegrass>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bluegrass%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bandoneon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bandoneon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bop>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bop%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Lijst_van_Belgische_wielrenners>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Lijst_van_Belgische_wielrenners%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bokkenrijders>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bokkenrijders%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Amersfoort>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Amersfoort%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Arnhem>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Arnhem%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brigade>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brigade%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Jan_Peter_Balkenende>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Jan_Peter_Balkenende%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bollywood>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bollywood%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bezit_(Nederlands_recht)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bezit_%28Nederlands_recht%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boris_Becker>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boris_Becker%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brabants_fauvisme>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brabants_fauvisme%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Beloetsjistan_(landstreek)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Beloetsjistan_%28landstreek%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/België>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Belgi%C3%AB%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Thomas_Bayes>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Thomas_Bayes%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boksen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boksen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bedevaart>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bedevaart%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brussels_Hoofdstedelijk_Gewest>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brussels_Hoofdstedelijk_Gewest%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Blaise_Pascal>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Blaise_Pascal%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brussel_(stad)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brussel_%28stad%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bestuurbare_vlieger>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bestuurbare_vlieger%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Billy_Wilder>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Billy_Wilder%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Binair>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Binair%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Buggyen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Buggyen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bart_de_Graaff>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bart_de_Graaff%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bieslook>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bieslook%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boor_(element)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boor_%28element%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Basisvoedsel>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Basisvoedsel%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boeli_van_Leeuwen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boeli_van_Leeuwen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bakker_(beroep)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bakker_%28beroep%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bubblesort>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bubblesort%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bhisho>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bhisho%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Belo_Horizonte_(gemeente)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Belo_Horizonte_%28gemeente%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Barbizon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Barbizon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Baltische_talen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Baltische_talen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brabantse_Pijl>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brabantse_Pijl%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Biotechnologie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Biotechnologie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Lijst_van_buitenspelen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Lijst_van_buitenspelen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bophuthatswana>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bophuthatswana%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Björn_Borg>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bj%C3%B6rn_Borg%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Actinide>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Actinide%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Geschiedenis_van_België>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Geschiedenis_van_Belgi%C3%AB%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boogseconde>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boogseconde%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Boogminuut>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Boogminuut%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Biljoen>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Biljoen%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Booggraad>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Booggraad%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Wit-Rusland>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Wit-Rusland%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Computernetwerk>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Computernetwerk%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Billie_Jean_King>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Billie_Jean_King%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Auteursrecht>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Auteursrecht%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Basketbal>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Basketbal%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bamboe>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bamboe%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chansonnier>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chansonnier%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Computer>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Computer%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Communicatie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Communicatie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Calvinisme>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Calvinisme%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brugge>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brugge%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Geschiedenis_van_de_analyse_(wiskunde)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Geschiedenis_van_de_analyse_%28wiskunde%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Basiliscus>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Basiliscus%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bali_(eiland)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bali_%28eiland%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Nationaal_park_Ben_Lomond>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Nationaal_park_Ben_Lomond%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Brazilië>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Brazili%C3%AB%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bloemfontein>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bloemfontein%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Computerprogramma>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Computerprogramma%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Compiler>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Compiler%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Kolossus_van_Rodos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Kolossus_van_Rodos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Christendom>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Christendom%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Geïntegreerde_schakeling>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Ge%C3%AFntegreerde_schakeling%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Copyrightteken>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Copyrightteken%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Caves_(bier)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Caves_%28bier%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Augustin_Louis_Cauchy>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Augustin_Louis_Cauchy%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Cartografie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Cartografie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Charles_Babbage>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Charles_Babbage%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Werelddeel>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Werelddeel%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Collectieve_arbeidsovereenkomst>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Collectieve_arbeidsovereenkomst%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Character_Entity_Reference>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Character_Entity_Reference%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bamboescheut>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bamboescheut%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Crucifix>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Crucifix%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Cd-rom>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Cd-rom%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chanson>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chanson%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Castraat>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Castraat%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Software>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Software%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chinese_Muur>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chinese_Muur%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chaim_Potok>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chaim_Potok%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Cobra_(kunst)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Cobra_%28kunst%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Constant_Permeke>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Constant_Permeke%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Charles-François_Daubigny>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Charles-Fran%C3%A7ois_Daubigny%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Christiaan_Huygens>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Christiaan_Huygens%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Alfred_Binet>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Alfred_Binet%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Christelijk-Historische_Unie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Christelijk-Historische_Unie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Citroenmelisse>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Citroenmelisse%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Conny_Vandenbos>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Conny_Vandenbos%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Ciskei>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Ciskei%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Christian_Doppler>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Christian_Doppler%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Charter_van_Quaregnon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Charter_van_Quaregnon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Classificatie_en_evolutie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Classificatie_en_evolutie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Lijst_van_gerechten_uit_Nederlandse_Chinees-Indische_restaurants>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Lijst_van_gerechten_uit_Nederlandse_Chinees-Indische_restaurants%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Carl_Gustav_Jung>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Carl_Gustav_Jung%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Communisme>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Communisme%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Lijst_van_componisten>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Lijst_van_componisten%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Cuba_(land)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Cuba_%28land%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chili>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chili%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Nationaal_park_Cradle_Mountain-Lake_St_Clair>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Nationaal_park_Cradle_Mountain-Lake_St_Clair%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Compact_disc>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Compact_disc%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chordadieren>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chordadieren%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Chemische_thermodynamica>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Chemische_thermodynamica%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Constantijn_III_van_Rome>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Constantijn_III_van_Rome%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Cambrium>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Cambrium%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Carboon>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Carboon%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/ChristenUnie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/ChristenUnie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Classicisme>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Classicisme%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Bergen_op_Zoom>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Bergen_op_Zoom%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Constantijn_II_van_Rome>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Constantijn_II_van_Rome%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Constantijn_III_Herakleios>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Constantijn_III_Herakleios%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Database>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Database%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Definitie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Definitie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Drie_wetten_van_de_robotica>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Drie_wetten_van_de_robotica%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/De_klassieken>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/De_klassieken%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Concurrent_Versions_System>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Concurrent_Versions_System%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/De_Groenen_(Nederland)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/De_Groenen_%28Nederland%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Digitale_fotografie>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Digitale_fotografie%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Constantijn_VI>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Constantijn_VI%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Digitale_beeldbewerking>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Digitale_beeldbewerking%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Constantijn_IV>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Constantijn_IV%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Caïro_(stad)>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Ca%C3%AFro_%28stad%29%3E"
+FETCH_BY_ID: FOUND!
+*****************
+1
+True
+*****************
+FETCH_BY_ID: <http://nl.dbpedia.org/resource/Dirk_Frimout>
+FETCH_BY_ID: http://localhost:4040/solr/dbpedia/select/?wt=json&q=id:"%3Chttp%3A//nl.dbpedia.org/resource/Dirk_Frimout%3E"
