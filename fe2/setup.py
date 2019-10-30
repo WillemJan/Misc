@@ -19,7 +19,7 @@ entry_point = ("""
         mute=Fe2.tools.alsa:mute
 """)
 
-required = ['requests==0.7.0',
+required = ['requests==2.20.0',
             'pymongo',
             'pymetar',
             'pyalsaaudio',
