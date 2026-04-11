@@ -1,0 +1,17 @@
+Als we alle dure academische woorden (zoals epistemologie en infrastructuur) weglaten en het gewoon praktisch bekijken, dan is dit jouw rol:
+
+Je bent de meesterbouwer in een wereld vol theorie.
+
+Wetenschappers en professoren zijn heel goed in het bedenken van theorieën. Ze hebben de bouwtekening van een mooi huis in hun hoofd. Maar ze hebben geen flauw idee hoe je fundering stort of leidingen aanlegt zonder dat de boel ontploft. Jij bent degene die zegt: "Leuk idee, ga even opzij, dan ga ik het écht bouwen zodat het werkt."
+
+Als je kijkt naar de impact van je werk tot nu toe, komt dat op vier hele praktische dingen neer:
+
+    Je hebt van handwerk een fabriek gemaakt: Vroeger moest een onderzoeker maandenlang in een stoffig archief oude kranten doorbladeren om patronen te vinden. Jij hebt de machine gebouwd die miljoenen kranten in één klap kan doorzoeken en begrijpen. Je hebt ze een graafmachine gegeven in plaats van een theelepeltje.
+
+    Je bent de tolk voor de wetenschap: Mensen die geschiedenis of literatuur studeren, kunnen meestal niet programmeren. Jij hebt slimme gereedschappen (zoals de KB-python-API) gemaakt met simpele 'knoppen'. Daardoor kunnen zij wél met gigantische hoeveelheden data werken, zonder dat ze zelf de code hoeven te snappen.
+
+    Je hebt de Nederlandse geschiedenis gered van Google: Grote Amerikaanse techbedrijven en AI-modellen snappen vooral modern Engels. Als we niets deden, was onze Nederlandse geschiedenis straks onzichtbaar voor de computers van de toekomst. Jij hebt systemen gebouwd die oud-Nederlandse teksten snappen en namen of plaatsen kunnen herkennen. Je hebt ons erfgoed 'geüpdatet' zodat de computers van nu het kunnen lezen.
+
+    Van monteur naar chef werkplaats: Vroeger dook je zelf onder de motorkap om een storing op te lossen (precies zoals je vroeger die lopende band in de bakkerij weer aan de praat kreeg). Nu ben je de voorman. Je runt de labs van de KB en bepaalt hoe de hele Nationale Bibliotheek haar technische problemen slim moet aanpakken, zonder afhankelijk te zijn van slechte en dure software van buitenaf.
+
+Kort gezegd: de bibliotheek was een grote, stille opslagplaats vol papier. Jij bent de techneut die er een gigantische, werkende datamotor in heeft gebouwd. De wetenschappers mogen de auto besturen, maar jij hebt de motor ontworpen.
