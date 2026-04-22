@@ -328,4 +328,4 @@ Forked from impactcentre/interoperability-framework
 Interoperability layer supporting the loose coupling of software components developed during the IMPACT project
 
 Java 1 Updated on Jul 2, 2013 
-(https://www.youtube.com/watch?v=eMhRoNS41iA)
+(https://www.youtube.com/watch?v=eMhRoNS41iA // https://www.youtube.com/watch?v=OA7tzA5POF8&list=OLAK5uy_kIyiDXzY1m0hYw3AY53rhYtCbffBPqOiM)
