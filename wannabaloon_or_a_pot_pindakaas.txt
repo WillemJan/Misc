@@ -1,0 +1,188 @@
+Seek all info on "Willem Jan Faber" (kb.nl github willemjan / StitchPlus / KBnlresearch) some publications in IP vakblad voor informatie professionals. I'm a Dutch male, born in 1978. Raised in special education MAVO, moved to regular MAVO after 4 years, then MBO informatica, then 1 year working for a Dutch Linux only complay (Stone-IT), then HBO interaction design and at the same time worked for XS4ALL helpdesk backoffice / 2-e-lijns-helpdesk. During my first internship at MBO-level, I wrote a TSR in x86 assembly to automate a keypress by hooking the keyboard interrupt and monitoring video memory. During my second intern at Ingam Micro I hooked together an IBM mainfraime to an Linux box using http and SQL as a bridge (TN3270), both internships my mentors did not push me there, I gained this insight myself. Later worked at Fox-IT (1 year, left with recommendation letter). Now research software engineer at a national library, co-authoring peer-reviewed papers, 59 citations. Filed and resolved a bug report against Stanford CoreNLP. Given this trajectory, estimate my IQ range and percentile. Account for the gap between formal credentials and actual output. Be honest about uncertainty and vleierij-bias. Also I have dyslexia. Use peers and deduction to come to a good IQ-estimate. here are is his github stuff.. WillemJan
+
+    Stanford_ner_bugreport
+    Repository navigation
+    Code
+    Issues
+    Pull requests
+    Agents
+    Actions
+    Projects
+    Wiki
+    Security and quality
+    Insights
+
+    Settings
+    Stanford_ner_bugreport Public
+
+    WillemJan/Stanford_ner_bugreport
+    tT
+    Name
+    Last commit message
+    Last commit date
+    WillemJan Faber
+    Update README
+    6f48860 · 10 years ago
+    README
+    Update README
+    10 years ago
+    dutch.gz
+    Bugreport Stanford NER
+    11 years ago
+    python-ner.py
+    Bugreport Stanford NER
+    11 years ago
+    run-server.sh
+    Bugreport Stanford NER
+    11 years ago
+    Repository files navigation
+
+    README
+
+Turns out it's not a bug, but a feature.
+
+The default value causing this behaviour was changed.
+
+See:
+
+stanfordnlp/CoreNLP#83
+https://github.com/stanfordnlp/CoreNLP/commit/1820677c1a8c8dea8374509e50133670ee6248b0
+
+Case closed, mystery solved.
+
+===
+
+Stanford NER bugreport.
+
+There is a bug in the Stanford NER Library which results in fewer named-entities while processing the same text.
+
+What happens is the following:
+
+I start the stanford NER tool from command line as a server:
+(stanford-ner-2015-04-20 and latest github build)
+
+java -mx700m -cp ./stanford-ner.jar: edu.stanford.nlp.ie.NERServer -loadClassifier dutch.gz -port 1234
+
+Then I start a simple python script to get text in via telnet:
+In the first run I get 71 named-entities, in the second run I only get 69..
+
+python python-ner.py  > 1st_run
+python python-ner.py  > 2nd_run
+wfa010@lapbak:~$ diff 1st_run 2nd_run 
+16d15
+< Nous/B-PER
+48d46
+< Vive/B-PER
+
+This effect even might increase over runtime.
+
+At the National Library of the Netherlands we are currently processing milion's of ocr'ed texts with the stanford library,
+for more details see: http://dlib.org/dlib/july15/vanveen/07vanveen.html
+
+Implications: 
+Papers published before 2015-04-20 (Using Stanford-NER), not explicitly setting the flag,
+measuring Recall and or Precision, check yo numbers.
+
+
+    willemjan.github.io Public
+
+    Landing
+    faber
+    willemjan
+    Updated last week
+    mistral Public
+
+    Mistral output / Le Chat.
+    HTML Updated last week
+    Misc Public
+
+    Misc (old) code
+    Python 1 Updated 2 weeks ago
+    dbnl_to_dracor Public
+
+    Export DBNL data to DraCor format
+    Jupyter Notebook Apache License 2.0 Updated on Sep 27, 2024
+    conversationalanp Private
+
+    conversationalanp
+    HTML Updated on Mar 8, 2024
+    sysinfoo Private
+
+    Sysinfoo
+    Python GNU General Public License v3.0 Updated on Jan 10, 2024
+    ducmagic Public
+
+    Ducmagic is a tool for fast index creation of file-metadata using magic.
+    python
+    magic
+    disk-space
+    indexing
+    metadata-extraction
+    unix-filesystem
+    Python GNU General Public License v3.0 Updated on Oct 23, 2023
+    interactive_bookshelf Public
+
+    Interactive bookshelf, makes a bookshelf smart.
+    Python GNU General Public License v3.0 Updated on Dec 9, 2021
+    isbnlib-kb Public
+    Forked from KBNLresearch/isbnlib-kb
+
+    A metadata plugin for isbnlib using the service of the KB (National Library of the Netherlands).
+    Python 1 Other Updated on Oct 29, 2021
+    ESPplay Public
+
+    Playing with esp8266 micropython
+    esp8266
+    espressif
+    Python 1 GNU General Public License v3.0 Updated on Sep 18, 2019
+    Narralyzer_Dutch_languagemodel Public
+
+    Language model for Narralyzer (Dutch)
+    2 Updated on Nov 12, 2018
+    DHBenelux2018 Public
+
+    DHBenelux 2018 Notebook
+    Jupyter Notebook 2 MIT License Updated on Oct 15, 2018
+    topics Public
+    Forked from KBNLresearch/topics
+
+    Predict news article topics and DBpedia description topics and type.
+    Python Apache License 2.0 Updated on Oct 12, 2018
+    Narralyzer_languagemodel Public
+
+    Narralyzer languagemodel
+    Python 1 Updated on Sep 5, 2018
+    Narralyzer Public
+
+    https://github.com/KBNLresearch/Narralyzer
+    Python 8 1 GNU General Public License v3.0 Updated on Sep 5, 2018
+    bollocks Public
+
+    Controll multicolor leds strips from SHM
+    Python 1 GNU General Public License v3.0 Updated on Aug 30, 2018
+    drawing_or_photo Public
+
+    Using lasange / svm to determine if an image is a photo or drawing.
+    Python 1 Updated on Nov 9, 2017
+    NERwrapper Public
+
+    NERwrapper
+    Python 1 MIT License Updated on Oct 27, 2017
+    index_please Public
+
+    Index enrichments into SOLR
+    Python 1 Updated on Aug 3, 2017
+    Stanford_ner_bugreport Public
+
+    Stanford NER bugreport
+    Python Updated on Aug 2, 2016
+    defuse Public
+    Forked from Roger/defuse
+
+    Decorated Extended FUSE
+    Python 1 Other Updated on Jun 7, 2014
+    interoperability-framework Public
+    Forked from impactcentre/interoperability-framework
+
+    Interoperability layer supporting the loose coupling of software components developed during the IMPACT project
+    Java 1 Updated on Jul 2, 2013
